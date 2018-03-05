@@ -8,7 +8,7 @@
 .tooltip.right .tooltip-arrow{border-right-color:#776B5D;}
 .tooltip.left .tooltip-arrow{border-left-color:#776B5D;}
 .tooltip.bottom .tooltip-arrow{  border-bottom-color:#776B5D;}
-#top-bar{background: #776B5D;}
+#top-bar{background: none;}
 #main-nav > ul ul{background-color:#776B5D;}
 .footer-info{background: #776B5D;}
 .returnTop{background:#776B5D;}
@@ -18,11 +18,11 @@ a:hover,a:focus{color:#F47564;}
 .dropdown-menu li a:hover,
 .dropdown-menu .active a,
 .dropdown-menu .active a:hover{background:#F47564;}
-#top-bar > ul #qqqun a{background: #F47564;}
-#top-bar > ul > li > a{background: #F47564;}
-#top-bar > ul li.wx .weixin{background: #F47564;}
+#top-bar > ul #qqqun a{background: none;}
+#top-bar > ul > li > a{background: none;}
+#top-bar > ul li.wx .weixin{background: none;}
 .user-login li input.login-btn{background: #F47564;}
-#top-bar > ul .user-dashboard li a:hover{background: #F47564;}
+#top-bar > ul .user-dashboard li a:hover{background: none;}
 .toggle-search{background: #F47564;}
 .search-expand{background:#F47564;}
 #main-nav > ul ul{border-left:2px solid #F47564;}
