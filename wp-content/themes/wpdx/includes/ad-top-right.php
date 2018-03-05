@@ -1,0 +1,1 @@
+<?php cmp_banner('banner_top_right' , '<div class="gsfha3-right">' , '</div>' ,true);?>

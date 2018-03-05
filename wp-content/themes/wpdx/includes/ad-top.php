@@ -1,0 +1,1 @@
+<?php cmp_banner('banner_top' , '<div class="row-fluid gsfha3">' , '</div>' ,true); ?>

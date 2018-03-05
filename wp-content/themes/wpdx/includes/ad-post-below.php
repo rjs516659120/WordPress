@@ -1,0 +1,1 @@
+<?php cmp_banner('banner_below' , '<div class="ggpost-below">' , '</div>' ,true);?>

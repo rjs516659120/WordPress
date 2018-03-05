@@ -1,0 +1,1 @@
+<?php cmp_banner('banner_bottom' , '<div class="row-fluid gthfdsa">' , '</div>' ,true );?>

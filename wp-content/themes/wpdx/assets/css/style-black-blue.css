@@ -1,0 +1,138 @@
+/****************************** #323841 *****************************************/
+.body-wrap{background:#323841;}
+.caret{border-top:4px solid #323841;}
+.dropdown-menu,.dropdown-menu .divider{background-color:#323841;}
+.navbar .nav>li>.dropdown-menu:after{border-bottom:6px solid #323841;}
+.tooltip-inner{background:#323841;}
+.tooltip.top .tooltip-arrow{border-top-color:#323841;}
+.tooltip.right .tooltip-arrow{border-right-color:#323841;}
+.tooltip.left .tooltip-arrow{border-left-color:#323841;}
+.tooltip.bottom .tooltip-arrow{  border-bottom-color:#323841;}
+#top-bar{background: #323841;}
+#main-nav > ul ul{background-color:#323841;}
+.footer-info{background: #323841;}
+.returnTop{background:#323841;}
+
+/****************************** #35AADC *****************************************/
+a:hover,a:focus{color:#35AADC;}
+.dropdown-menu li a:hover,
+.dropdown-menu .active a,
+.dropdown-menu .active a:hover{background:#35AADC;}
+#top-bar > ul #qqqun a{background: #35AADC;}
+#top-bar > ul > li > a{background: #35AADC;}
+#top-bar > ul li.wx .weixin{background: #35AADC;}
+.user-login li input.login-btn{background: #35AADC;}
+#top-bar > ul .user-dashboard li a:hover{background: #35AADC;}
+.toggle-search{background: #35AADC;}
+.search-expand{background:#35AADC;}
+#main-nav > ul ul{border-left:2px solid #35AADC;}
+#main-nav > ul li ul li.active a{background-color:#35AADC;}
+.current-post-ancestor,
+.current-menu-ancestor,
+.current-menu-parent,
+.current-menu-item{background:#35AADC;}
+.social-icons .popup-follow-mail .btn{background: #35AADC;}
+.post-meta span a:hover{color: #35AADC;}
+.pic-box li.first-pic h3 a{background: #35AADC;}
+.pic-box li.first-pic a.first-pic-title{background: #35AADC;}
+.archive-list li:hover h2 a{color: #35AADC;}
+.archive-thumb:hover h2 a{color: #35AADC;}
+.archive-big h2{background: #35AADC;}
+.page-nav span.current,
+.page-nav a:hover{background:#35AADC;}
+.entry a{color:#35AADC;}
+.commentlist a{color:#35AADC;}
+#commentform input#submit,#commentform input#reset{background:#35AADC;}
+.footer-nav ul{background: #35AADC;}
+#paycenter a,
+#user-left .user-pm a,
+#user-right .feedback a{background: #35AADC;}
+#user-menu li.current-post-ancestor,
+#user-menu li.current-menu-ancestor,
+#user-menu li.current-menu-parent,
+#user-menu li.current-menu-item{border-left:5px solid #35AADC;}
+#user-menu li.current-post-ancestor a,
+#user-menu li.current-menu-ancestor a,
+#user-menu li.current-menu-parent a,
+#user-menu li.current-menu-item a{color:#35AADC;}
+.wrap p input[type=submit],
+.wrap td input[type=submit]{background:#35AADC;}
+table.form-table input.button-primary:disabled{background: #35AADC;}
+.entry .paydown p.down-ordinary{color: #35AADC;}
+ul.wpuf-form .wpuf-submit input[type=submit]{background:#35AADC;}
+.wpuf-pagination .page-numbers:hover,
+.wpuc-pagination .page-numbers:active,
+.wpuf-pagination .current{background:#35AADC;}
+.entry input#wp-submit{background:#35AADC;}
+.entry input#wp-submit:hover{background:#8463A9;}
+.my-dwqa-ask-question a,
+#field-wrapper .send-button,
+.front-end-pm-form .fep-button,
+.dwqa-pagination span.dwqa-current,
+.dwqa-pagination a:hover,
+.dwqa-questions-footer .dwqa-ask-question a,
+.dwqa-content-edit-form input[type="submit"],
+.dwqa-btn-primary,
+.cmpuser-save input[type="submit"]{color:#fff;background:#35AADC;border-color:#35AADC;}
+.my-dwqa-ask-question a:hover,
+#field-wrapper .send-button:hover,
+.front-end-pm-form .fep-button:hover,
+.dwqa-questions-footer .dwqa-ask-question a:hover,
+.dwqa-content-edit-form input[type="submit"]:hover,
+.dwqa-btn-primary:hover,
+.cmpuser-save input[type="submit"]:hover{background:#8463A9;border-color:#8463A9;}
+#fep-content .fep-pagination>li>a:hover,
+#fep-content .fep-pagination>li>span:hover,
+#fep-content .fep-pagination>li>a:focus,
+#fep-content .fep-pagination>li>span:focus{color:#fff;background-color:#35AADC;}
+#fep-content .fep-pagination>.active>a,
+#fep-content .fep-pagination>.active>span,
+#fep-content .fep-pagination>.active>a:hover,
+#fep-content .fep-pagination>.active>span:hover,
+#fep-content .fep-pagination>.active>a:focus,
+#fep-content .fep-pagination>.active>span:focus{background-color:#35AADC;}
+
+/****************************** #52B4DB *****************************************/
+.footer-nav li{border-right: 1px solid #52B4DB;}
+
+/****************************** @media *****************************************/
+@media screen and (min-width:481px) and (max-width:1030px){
+#main-nav > ul > li:hover{background: #323841;}
+}
+@media screen and (max-width:820px){
+    #user-menu li.current-post-ancestor a,
+    #user-menu li.current-menu-ancestor a,
+    #user-menu li.current-menu-parent a,
+    #user-menu li.current-menu-item a{color:#35AADC;}
+}
+@media screen and (max-width:480px){
+    #logo{border-bottom: 1px solid #83796A;}
+    #top-bar .nav{border-bottom: 1px solid #83796A;}
+    .toggle-search{border-left: 1px solid #83796A;background: #323841;}
+    #main-nav > a{background:#35AADC;}
+    #main-nav > ul > li:hover{background:#8463A9;}
+    .pic-box li.first-pic a.first-pic-title{background: #eee;}
+}
+
+/****************************** style-vertical ***********************************/
+.style-vertical #top-part{background: #323841;}
+.style-vertical #main-nav > ul > li:hover{background: #323841;}
+.style-vertical #main-nav > ul ul{border-left:none;}
+.style-vertical .footer-info{background: #323841;}
+.style-vertical .current-post-ancestor,
+.style-vertical .current-menu-ancestor,
+.style-vertical .current-menu-parent,
+.style-vertical .current-menu-item{background:#1F8EBC;}
+
+.style-vertical #main-nav{background: #35AADC;}
+
+@media screen and (min-width:481px) and (max-width:1030px){
+.style-vertical #main-nav > ul > li:hover{min-width:0;background: #323841;}
+}
+@media screen and (max-width:480px){
+    .style-vertical .toggle-search{padding:12px;background: #323841;}
+    .style-vertical #main-nav{background: #323841;}
+    .style-vertical #top-bar .nav{border-bottom: none;}
+    .style-vertical #main-nav > a{background:#35AADC;}
+    .style-vertical #main-nav > ul > li:hover{background: #323841;}
+}

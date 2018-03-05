@@ -1,0 +1,5379 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPDX\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-23 09:22+0800\n"
+"PO-Revision-Date: 2016-12-23 09:22+0800\n"
+"Last-Translator: 倡萌@WordPress大学 <admin@cmhello.com>\n"
+"Language-Team: 倡萌@WordPress大学 <admin@cmhello.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:12 ../includes/breadcrumbs.php:44 ../loop-blog.php:3
+#: ../page-archives.php:24 ../page-group-1.php:16 ../page-group-2.php:16
+#: ../page-tags.php:24 ../page-user-center.php:16 ../page-wide-comment.php:17
+#: ../page-wide.php:17 ../page.php:19 ../single-download.php:19
+#: ../single.php:19
+msgid "Not Found"
+msgstr ""
+
+#: ../404.php:14 ../loop-blog.php:5 ../loop-edd.php:4 ../loop.php:4
+#: ../page-archives.php:27 ../page-group-1.php:19 ../page-group-2.php:19
+#: ../page-tags.php:27 ../page-user-center.php:19 ../page-wide-comment.php:20
+#: ../page-wide.php:20 ../page.php:22 ../single-download.php:22
+#: ../single.php:22
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: ../archive.php:12
+msgid "Archive: "
+msgstr ""
+
+#: ../author.php:26
+msgid "Send a message"
+msgstr ""
+
+#: ../author.php:31
+msgid "His/Her Posts"
+msgstr ""
+
+#: ../author.php:37
+#, php-format
+msgid "%s's Posts"
+msgstr ""
+
+#: ../author.php:39
+msgid "Subscribe to this author"
+msgstr ""
+
+#: ../author.php:46
+#, php-format
+msgid "<div class=\"post-count\"> %s has published %s posts :</div>"
+msgstr ""
+
+#: ../author.php:48
+#, php-format
+msgid ""
+"<div class=\"post-count\"> %s has not yet published any post, you can read "
+"the following wonderful posts : </div>"
+msgstr ""
+
+#: ../category.php:13 ../taxonomy-download_category.php:13
+msgid "Category: "
+msgstr ""
+
+#: ../category.php:15 ../taxonomy-download_category.php:15
+msgid "Subscribe to this category"
+msgstr ""
+
+#: ../category.php:31
+msgid "No Menu Items."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:91
+msgid "You have successfully logged in!"
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:93
+msgid "The username or email can not be empty!"
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:95
+msgid "The password can not be empty!"
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:97
+msgid ""
+"A user could not be found with this email address. Please check and try "
+"again!"
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:99
+msgid "The username or password is incorrect. Please check and try again!"
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:101
+msgid "You have successfully logged out!"
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:103
+msgid ""
+"Something went wrong while activating your account. Please contact the "
+"webmaster for help."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:105
+msgid ""
+"Your account is currently disabled. For more information, please contact the "
+"webmaster."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:107
+msgid "Congratulations, your account has been successfully activated."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:144 ../cmpuser/cmpuser.php:147
+#: ../cmpuser/cmpuser.php:207
+msgid "Congratulations, your account has been successfully created."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:148
+msgid ""
+"But the server can not send the verification email to you, please contact "
+"the webmaster to handle the mail sending problem and activate your account."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:151
+msgid ""
+"Congratulations, your account has been successfully created, but you must to "
+"activate your account to login. <strong>Please check your mailbox to confirm "
+"your account</strong>."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:154
+msgid "Are you kidding me? Please register your account in the normal way."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:157
+msgid ""
+"Congratulations, your account has been successfully created and activated."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:160 ../cmpuser/templates/register-form.php:51
+msgid ""
+"Your password must contain at least 1 uppercase, 1 lowercase letter and at "
+"least 1 number. Passwords should not contain the user's username, email, or "
+"first/last name."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:163
+msgid "Username cannot be empty."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:166
+msgid "The username has been used, please try another."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:169
+msgid "Nickname cannot be empty."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:172
+msgid "First Name cannot be empty."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:175
+msgid "Last Name cannot be empty."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:178
+msgid "Passwords cannot be empty."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:181
+msgid "The two passwords are not the same."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:184
+msgid "Email cannot be empty."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:187
+msgid ""
+"It does not appear to be a valid email address, please check and try again."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:190
+msgid ""
+"The email address is already in use. Please use a different email address."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:193
+msgid "CAPTCHA is incorrect. Please try again."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:196 ../cmpuser/cmpuser.php:199
+msgid ""
+"Something strange has ocurred while created the new user. Please contact the "
+"webmaster for help."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:202
+msgid "must be checked"
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:208
+msgid ""
+"<strong>But the server can not send the email, please contact the webmaster "
+"to handle the mail sending problem</strong>."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:215
+msgid "You are now logged in. It makes no sense to register a new user."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:235
+msgid ""
+"You will receive an email with the activation link, click the verification "
+"link to change your password."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:238
+msgid ""
+"You may receive an email with the activation link, click the verification "
+"link to change your password."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:241
+msgid ""
+"An error has ocurred sending the email, please contact the site "
+"administrator for help."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:244
+msgid "Username or email is not valid, please try again."
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:257
+msgid "You are now logged in. It makes no sense to reset your account"
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:551
+#, php-format
+msgid ""
+"Use the following link to activate your account: <a href='%s'>activate your "
+"account</a>.<br/><br/>%s<br/>"
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:553
+msgid "Activate your account"
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:589
+#, php-format
+msgid ""
+"New user registered: %s <br/><br/>Please change the role from 'Stand By' to "
+"'Subscriber' or higher to allow full site access"
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:592
+#, php-format
+msgid "New user registered: %s <br/>"
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:595
+msgid "New user registered"
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:605
+#, php-format
+msgid ""
+"Thanks for registering on our website, the following is your account "
+"information:<br/><br/>\n"
+"                                    Username: %s <br/><br/>\n"
+"                                    Password: %s <br/><br/>\n"
+"                                    Email: %s <br/><br/>\n"
+"                                    You can login from: %s <br/><br/>\n"
+"                                    "
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:698
+#, php-format
+msgid ""
+"Use the following link to reset your password: <a href='%s'>reset your "
+"password</a> <br/><br/>%s<br/>"
+msgstr ""
+
+#: ../cmpuser/cmpuser.php:700
+msgid "Reset your password"
+msgstr ""
+
+#: ../cmpuser/includes/cmpuser-frontend-post.php:50
+msgid "Update"
+msgstr ""
+
+#: ../cmpuser/includes/cmpuser-frontend-post.php:120
+#: ../cmpuser/includes/cmpuser-frontend-post.php:122
+msgid "Frontend Edit"
+msgstr ""
+
+#: ../cmpuser/includes/cmpuser-frontend-post.php:135
+msgid "Error"
+msgstr ""
+
+#: ../cmpuser/includes/cmpuser-frontend-post.php:256
+msgid "Please login or register to use this function."
+msgstr ""
+
+#: ../cmpuser/includes/cmpuser-frontend-post.php:256
+msgid "Notice"
+msgstr ""
+
+#: ../cmpuser/includes/cmpuser-frontend-post.php:384
+msgid ""
+"We were unable to accept your post at this time. Please try again. If the "
+"problem persists tell the site owner."
+msgstr ""
+
+#: ../cmpuser/includes/cmpuser-frontend-post.php:397
+msgid "New post submitted from frontend to"
+msgstr ""
+
+#: ../cmpuser/includes/cmpuser-frontend-post.php:397
+msgid "To view the entry click here:"
+msgstr ""
+
+#: ../cmpuser/includes/cmpuser-frontend-post.php:398
+msgid "New frontend post to"
+msgstr ""
+
+#: ../cmpuser/includes/cmpuser-frontend-post.php:435
+#, php-format
+msgid "This page is restricted. Please %s to view this page."
+msgstr ""
+
+#: ../cmpuser/includes/cmpuser-frontend-post.php:464
+msgid "Post Deleted"
+msgstr ""
+
+#: ../cmpuser/includes/cmpuser-frontend-post.php:519
+msgid "You are not the post author. Cheeting huh!"
+msgstr ""
+
+#: ../cmpuser/includes/user-avatars.php:121
+#: ../cmpuser/includes/user-avatars.php:284
+#: ../cmpuser/templates/new-profile-edit-form.php:913
+msgid "Avatar"
+msgstr ""
+
+#: ../cmpuser/includes/user-avatars.php:124
+msgid "Upload Avatar"
+msgstr ""
+
+#: ../cmpuser/includes/user-avatars.php:139
+#: ../cmpuser/includes/user-avatars.php:250
+#: ../cmpuser/includes/user-avatars.php:297
+#: ../cmpuser/templates/new-profile-edit-form.php:948
+msgid "No local avatar is set. Use the upload field to add a local avatar."
+msgstr ""
+
+#: ../cmpuser/includes/user-avatars.php:141
+#: ../cmpuser/includes/user-avatars.php:252
+#: ../cmpuser/includes/user-avatars.php:299
+#: ../cmpuser/templates/new-profile-edit-form.php:950
+msgid "Delete local avatar"
+msgstr ""
+
+#: ../cmpuser/includes/user-avatars.php:142
+#: ../cmpuser/includes/user-avatars.php:253
+#: ../cmpuser/includes/user-avatars.php:300
+#: ../cmpuser/templates/new-profile-edit-form.php:951
+msgid ""
+"Replace the local avatar by uploading a new avatar, or erase the local "
+"avatar (falling back to a gravatar) by checking the delete option."
+msgstr ""
+
+#: ../cmpuser/includes/user-avatars.php:147
+#: ../cmpuser/includes/user-avatars.php:258
+#: ../cmpuser/includes/user-avatars.php:305
+#: ../cmpuser/templates/new-profile-edit-form.php:956
+msgid "No local avatar is set. Set up your avatar at Gravatar.com."
+msgstr ""
+
+#: ../cmpuser/includes/user-avatars.php:149
+#: ../cmpuser/includes/user-avatars.php:260
+#: ../cmpuser/includes/user-avatars.php:307
+#: ../cmpuser/templates/new-profile-edit-form.php:958
+msgid ""
+"You do not have media management permissions. To change your local avatar, "
+"contact the site administrator."
+msgstr ""
+
+#: ../cmpuser/includes/user-avatars.php:264
+#: ../cmpuser/templates/new-profile-edit-form.php:963
+msgid "Update Avatar"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:83
+#: ../cmpuser/templates/frontend-post-list.php:8
+#: ../panel/custom-slider.php:145 ../panel/mpanel-ui.php:459
+msgid "Title"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:86
+msgid "Excerpt"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:89
+msgid "Content "
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:128
+msgid "Select a Category"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:141 ../panel/mpanel-ui.php:479
+#: ../panel/mpanel-ui.php:499 ../panel/mpanel-ui.php:1434
+#: ../panel/mpanel-ui.php:1689
+msgid "Category"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:152
+msgid "New category"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:156
+msgid "Tags (comma-separated)"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:171
+msgid "Post Format"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:182
+msgid "Your Name"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:185
+msgid "Your Email"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:195
+msgid "Wrong Quiz Answer!"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:201
+msgid "Post Status"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:203 ../panel/mpanel-ui.php:1171
+msgid "Publish"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:204
+#: ../cmpuser/templates/frontend-post-list.php:118 ../panel/mpanel-ui.php:1170
+msgid "Pending"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:205
+#: ../cmpuser/templates/frontend-post-list.php:114 ../panel/mpanel-ui.php:1172
+msgid "Draft"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:206
+#: ../cmpuser/templates/frontend-post-list.php:125 ../panel/mpanel-ui.php:1173
+msgid "Private"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:210
+msgid "Submit"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:211
+msgid "New Post "
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-form.php:224
+msgid ""
+"Seems like you don't have Javascript enabled. To use this function you need "
+"to enable JavaScript."
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-list.php:1
+#, php-format
+msgid "You have created <span>%d</span> %s"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-list.php:9
+#: ../dwqa-templates/content-single-question.php:31
+msgid "Status"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-list.php:11 ../panel/mpanel-ui.php:1012
+msgid "Options"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-list.php:51
+#: ../dwqa-templates/content-comment.php:19
+#: ../functions/theme-functions.php:621 ../includes/post-meta.php:23
+#: ../panel/custom-slider.php:12
+msgid "Edit"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-list.php:60
+msgid "Are you sure to delete?"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-list.php:62
+#: ../dwqa-templates/content-comment.php:22 ../panel/custom-slider.php:81
+#: ../panel/custom-slider.php:112 ../panel/mpanel-functions.php:317
+msgid "Delete"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-list.php:80 ../includes/pagenavi.php:123
+#: ../page-user-list.php:166
+msgid "&laquo;"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-list.php:81 ../includes/pagenavi.php:122
+#: ../page-user-list.php:167
+msgid "&raquo;"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-list.php:96
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-list.php:110
+msgid "Published"
+msgstr ""
+
+#: ../cmpuser/templates/frontend-post-list.php:121
+msgid "Scheduled"
+msgstr ""
+
+#: ../cmpuser/templates/login-form.php:15
+msgid "Username/Email"
+msgstr ""
+
+#: ../cmpuser/templates/login-form.php:20
+#: ../cmpuser/templates/new-profile-edit-form.php:131
+#: ../cmpuser/templates/new-profile-edit-form.php:177
+#: ../cmpuser/templates/register-form.php:48 ../includes/top-bar.php:65
+msgid "Password"
+msgstr ""
+
+#: ../cmpuser/templates/login-form.php:26
+#: ../includes/widgets/widget-login.php:37
+msgid "Remember Me"
+msgstr ""
+
+#: ../cmpuser/templates/login-form.php:28
+#: ../cmpuser/templates/show-new-password.php:22
+#: ../includes/widgets/widget-login.php:36
+msgid "Log in"
+msgstr ""
+
+#: ../cmpuser/templates/login-form.php:39
+msgid "Lost your password?"
+msgstr ""
+
+#: ../cmpuser/templates/login-form.php:42
+msgid "Register an account"
+msgstr ""
+
+#: ../cmpuser/templates/login-preview.php:24
+msgid "Log out"
+msgstr ""
+
+#: ../cmpuser/templates/login-preview.php:26
+msgid "Edit my profile"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:35
+msgid "Email Address"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:36
+msgid "Edit your email address - used for resetting your password etc."
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:43
+#: ../cmpuser/templates/register-form.php:20
+#: ../functions/theme-functions.php:1881
+msgid "Nickname"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:50
+msgid "Website URL"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:57
+msgid "Description/Bio"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:64
+#: ../functions/theme-functions.php:437 ../panel/mpanel-ui.php:1500
+msgid "QQ"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:71
+#: ../functions/theme-functions.php:440
+#: ../includes/widgets/widget-follow-subscribe.php:40
+#: ../panel/mpanel-ui.php:1490
+msgid "Sina Weibo"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:72
+msgid "Please type your Sina Weibo, including http://"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:79
+msgid "Tencent Weibo"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:80
+msgid "Please type your Tencent Weibo, including http://"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:87
+#: ../functions/theme-functions.php:441
+#: ../includes/widgets/widget-follow-subscribe.php:46
+#: ../panel/mpanel-ui.php:1510
+msgid "Twitter"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:88
+msgid "Please type your Twitter, including https://"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:95
+#: ../functions/theme-functions.php:442
+#: ../includes/widgets/widget-follow-subscribe.php:49
+#: ../panel/mpanel-ui.php:1505
+msgid "Google+"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:96
+msgid "Please type your Google+, including https://"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:113
+#: ../panel/mpanel-ui.php:1051
+msgid ""
+"Password must contain at least 1 uppercase, 1 lowercase letter and at least "
+"1 number. Passwords should not contain the user's username, email, or first/"
+"last name."
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:115
+msgid ""
+"It is strongly recommended to set a complex password, including upper/"
+"lowercase letter, special/symbol character and alphanumeric characters.  "
+"Passwords should not contain the user's username, email, or first/last name."
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:122
+msgid "Please enter your new password below:"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:151
+msgid "Profile"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:444
+msgid "New Password"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:446
+msgid "Repeat New Password"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:491
+msgid "Update "
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:590
+#: ../cmpuser/templates/new-profile-edit-form.php:628
+msgid "<p class=\"error\">There was a problem with updating your profile.</p>"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:660
+msgid "Your profile was updated successfully!"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:696
+msgid "<p class=\"error\">Please make sure the passwords match.</p>"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:708
+msgid "<p class=\"error\">Please make sure your password is a minimum of "
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:708
+msgid " characters long.</p>"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:722
+msgid ""
+"<p class=\"error\">Your password must contain at least 1 uppercase, 1 "
+"lowercase letter and at least 1 number</p>"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:739
+#, php-format
+msgid ""
+"<div class=\"messages\"><p class=\"updated\">You're password was "
+"successfully changed and you have been logged out. Please <a href=\"%s"
+"\">login again here</a>.</p></div>"
+msgstr ""
+
+#: ../cmpuser/templates/new-profile-edit-form.php:980
+msgid "Your avatar was updated successfully!"
+msgstr ""
+
+#: ../cmpuser/templates/profile-edit-form.php:8
+msgid "General information"
+msgstr ""
+
+#: ../cmpuser/templates/profile-edit-form.php:13
+#: ../cmpuser/templates/register-form.php:32
+msgid "First name"
+msgstr ""
+
+#: ../cmpuser/templates/profile-edit-form.php:18
+#: ../cmpuser/templates/register-form.php:36
+msgid "Last name"
+msgstr ""
+
+#: ../cmpuser/templates/profile-edit-form.php:23
+#: ../cmpuser/templates/register-form.php:25
+msgid "E-mail"
+msgstr ""
+
+#: ../cmpuser/templates/profile-edit-form.php:29
+msgid "Change password"
+msgstr ""
+
+#: ../cmpuser/templates/profile-edit-form.php:31
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+
+#: ../cmpuser/templates/profile-edit-form.php:36
+msgid "New password"
+msgstr ""
+
+#: ../cmpuser/templates/profile-edit-form.php:41
+#: ../cmpuser/templates/register-form.php:57
+msgid "Confirm password"
+msgstr ""
+
+#: ../cmpuser/templates/profile-edit-form.php:48
+msgid "Update profile"
+msgstr ""
+
+#: ../cmpuser/templates/register-form.php:12
+msgid "<p>All of the following fields are required:</p>"
+msgstr ""
+
+#: ../cmpuser/templates/register-form.php:15 ../includes/top-bar.php:64
+msgid "Username"
+msgstr ""
+
+#: ../cmpuser/templates/register-form.php:27
+msgid ""
+"Please type your usual e-mail address in order to activate the account and "
+"receive notifications."
+msgstr ""
+
+#: ../cmpuser/templates/register-form.php:42
+#: ../cmpuser/templates/reset-password-form.php:10
+#: ../functions/theme-functions.php:1882
+msgid "Website"
+msgstr ""
+
+#: ../cmpuser/templates/register-form.php:67
+msgid "Choose your role"
+msgstr ""
+
+#: ../cmpuser/templates/register-form.php:84
+msgid "Captcha"
+msgstr ""
+
+#: ../cmpuser/templates/register-form.php:86
+msgid "Type the captcha above"
+msgstr ""
+
+#: ../cmpuser/templates/register-form.php:100 ../includes/top-bar.php:80
+msgid "Register"
+msgstr ""
+
+#: ../cmpuser/templates/reset-password-form.php:6
+msgid "Type your username or E-mail:"
+msgstr ""
+
+#: ../cmpuser/templates/reset-password-form.php:15
+msgid "Reset password"
+msgstr ""
+
+#: ../cmpuser/templates/show-new-password.php:6
+msgid "Your new password is"
+msgstr ""
+
+#: ../comments-ajax.php:15 ../comments-ajax.php:25 ../comments-ajax.php:28
+msgid "Invalid comment status."
+msgstr ""
+
+#: ../comments-ajax.php:22
+msgid "Sorry, comments are closed for this item."
+msgstr ""
+
+#: ../comments-ajax.php:31
+msgid "Password Protected"
+msgstr ""
+
+#: ../comments-ajax.php:56
+msgid "Sorry, you must be logged in to post a comment."
+msgstr ""
+
+#: ../comments-ajax.php:61
+msgid "Error: please fill the required fields (name, email)."
+msgstr ""
+
+#: ../comments-ajax.php:63
+msgid "Error: please enter a valid email address."
+msgstr ""
+
+#: ../comments-ajax.php:66
+msgid "Error: please type a comment."
+msgstr ""
+
+#: ../comments-ajax.php:71 ../functions/theme-functions.php:1525
+msgid "Your comment must contain Chinese."
+msgstr ""
+
+#: ../comments-ajax.php:73 ../functions/theme-functions.php:1528
+msgid "Comments are not allowed sensitive character."
+msgstr ""
+
+#: ../comments-ajax.php:85
+msgid ""
+"Duplicate comment detected; it looks as though you&#8217;ve already said "
+"that!"
+msgstr ""
+
+#: ../comments-ajax.php:93
+msgid "You are posting comments too quickly.  Slow down."
+msgstr ""
+
+#: ../comments-ajax.php:120
+#, php-format
+msgid "<a class=\"fn\">%s</a>:"
+msgstr ""
+
+#: ../comments-ajax.php:123
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../comments.php:7
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:18
+msgid "No comments"
+msgstr ""
+
+#: ../comments.php:18
+msgid "One comment"
+msgstr ""
+
+#: ../comments.php:18
+msgid "comments"
+msgstr ""
+
+#: ../comments.php:20
+msgid "Comments Loading ..."
+msgstr ""
+
+#: ../comments.php:30 ../dwqa-templates/dwqa-functions.php:104
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: ../dwqa-templates/archive-question.php:11
+#: ../dwqa-templates/archive-question.php:33
+msgid "Ask Question"
+msgstr ""
+
+#: ../dwqa-templates/content-comment.php:16
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "replied %s ago"
+msgstr ""
+
+#: ../dwqa-templates/content-question.php:18
+msgid "asked"
+msgstr ""
+
+#: ../dwqa-templates/content-question.php:22
+msgid "answered"
+msgstr ""
+
+#: ../dwqa-templates/content-question.php:25
+#, php-format
+msgid "<span><a href=\"%s\">%s%s</a> %s %s ago</span>"
+msgstr ""
+
+#: ../dwqa-templates/content-question.php:26
+msgid "&nbsp;&bull;&nbsp;"
+msgstr ""
+
+#: ../dwqa-templates/content-question.php:31
+#, php-format
+msgid "<strong>%1$s</strong> views"
+msgstr ""
+
+#: ../dwqa-templates/content-question.php:35
+#, php-format
+msgid "<strong>%1$s</strong> answers"
+msgstr ""
+
+#: ../dwqa-templates/content-question.php:39
+#, php-format
+msgid "<strong>%1$s</strong> votes"
+msgstr ""
+
+#: ../dwqa-templates/content-single-question.php:14
+msgid "Vote Up"
+msgstr ""
+
+#: ../dwqa-templates/content-single-question.php:15
+msgid "Vote Down"
+msgstr ""
+
+#: ../dwqa-templates/content-single-question.php:19
+#, php-format
+msgid "<span><a href=\"%s\">%s%s</a> %s asked %s ago</span>"
+msgstr ""
+
+#: ../dwqa-templates/content-single-question.php:25
+msgid "Question Tags: "
+msgstr ""
+
+#: ../dwqa-templates/content-single-question.php:29
+msgid "This question is:"
+msgstr ""
+
+#: ../dwqa-templates/content-single-question.php:32
+msgid "Open"
+msgstr ""
+
+#: ../dwqa-templates/content-single-question.php:33
+msgid "Closed"
+msgstr ""
+
+#: ../dwqa-templates/content-single-question.php:34
+msgid "Resolved"
+msgstr ""
+
+#: ../dwqa-templates/dwqa-functions.php:59
+msgid "DWQA Widget Area"
+msgstr ""
+
+#: ../dwqa-templates/dwqa-functions.php:61
+msgid "The DW Questions & Answer widget area"
+msgstr ""
+
+#: ../dwqa-templates/dwqa-functions.php:82
+msgid "Email"
+msgstr ""
+
+#: ../dwqa-templates/dwqa-functions.php:84
+msgid "Name"
+msgstr ""
+
+#: ../dwqa-templates/dwqa-functions.php:86
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: ../dwqa-templates/dwqa-functions.php:98
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../dwqa-templates/dwqa-functions.php:99
+msgid "Post a comment"
+msgstr ""
+
+#: ../dwqa-templates/dwqa-functions.php:101
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: ../dwqa-templates/dwqa-functions.php:105
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../dwqa-templates/dwqa-functions.php:106
+msgid "Cancel reply"
+msgstr ""
+
+#: ../dwqa-templates/dwqa-functions.php:107
+msgid "Post Comment"
+msgstr ""
+
+#: ../footer.php:10 ../footer.php:13
+msgid "Return top"
+msgstr ""
+
+#: ../functions/auto-highslide.php:23
+msgid "Loading..."
+msgstr ""
+
+#: ../functions/auto-highslide.php:24
+msgid "Click to cancel"
+msgstr ""
+
+#: ../functions/auto-highslide.php:25
+msgid "Click to bring to front"
+msgstr ""
+
+#: ../functions/auto-highslide.php:26
+msgid "Expand to actual size (f)"
+msgstr ""
+
+#: ../functions/auto-highslide.php:27
+msgid "Previous"
+msgstr ""
+
+#: ../functions/auto-highslide.php:28
+msgid "Next"
+msgstr ""
+
+#: ../functions/auto-highslide.php:29 ../functions/auto-highslide.php:39
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:196
+msgid "Move"
+msgstr ""
+
+#: ../functions/auto-highslide.php:30
+msgid "Close"
+msgstr ""
+
+#: ../functions/auto-highslide.php:31
+msgid "Close (esc)"
+msgstr ""
+
+#: ../functions/auto-highslide.php:32
+msgid "Resize"
+msgstr ""
+
+#: ../functions/auto-highslide.php:33
+msgid "Play"
+msgstr ""
+
+#: ../functions/auto-highslide.php:34
+msgid "Play slideshow (spacebar)"
+msgstr ""
+
+#: ../functions/auto-highslide.php:35
+msgid "Pause"
+msgstr ""
+
+#: ../functions/auto-highslide.php:36
+msgid "Pause slideshow (spacebar)"
+msgstr ""
+
+#: ../functions/auto-highslide.php:37
+msgid "Previous (arrow left)"
+msgstr ""
+
+#: ../functions/auto-highslide.php:38
+msgid "Next (arrow right)"
+msgstr ""
+
+#: ../functions/auto-highslide.php:40
+msgid "1:1"
+msgstr ""
+
+#: ../functions/auto-highslide.php:41
+msgid "Image %1 of %2"
+msgstr ""
+
+#: ../functions/auto-highslide.php:42
+msgid ""
+"Click to close image, click and drag to move. Use arrow keys for next and "
+"previous."
+msgstr ""
+
+#: ../functions/categories-metas.php:139 ../functions/categories-metas.php:155
+#: ../functions/categories-metas.php:253 ../panel/mpanel-ui.php:1777
+#: ../panel/mpanel-ui.php:1830 ../panel/mpanel-ui.php:1883
+#: ../panel/mpanel-ui.php:1936 ../panel/mpanel-ui.php:1989
+#: ../panel/mpanel-ui.php:2042 ../panel/mpanel-ui.php:2096
+#: ../panel/mpanel-ui.php:2150 ../panel/mpanel-ui.php:2204
+#: ../panel/mpanel-ui.php:2256
+msgid "Image"
+msgstr ""
+
+#: ../functions/categories-metas.php:142 ../functions/categories-metas.php:157
+#: ../functions/categories-metas.php:235
+msgid "Uplaod/Add a image"
+msgstr ""
+
+#: ../functions/categories-metas.php:158 ../functions/categories-metas.php:236
+msgid "Delete image"
+msgstr ""
+
+#: ../functions/categories-metas.php:271
+msgid "Category image"
+msgstr ""
+
+#: ../functions/categories-metas.php:278
+msgid "Inserted into the post"
+msgstr ""
+
+#: ../functions/categories-metas.php:278
+msgid "Use this iamge"
+msgstr ""
+
+#: ../functions/class.Nav_Menu_Roles_Import.php:100
+#: ../functions/class.Nav_Menu_Roles_Import.php:109
+#: ../functions/class.Nav_Menu_Roles_Import.php:155
+#: ../functions/class.Nav_Menu_Roles_Import.php:159
+#: ../functions/class.Nav_Menu_Roles_Import.php:168
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../functions/class.Nav_Menu_Roles_Import.php:101
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../functions/class.Nav_Menu_Roles_Import.php:140
+msgid "All done."
+msgstr ""
+
+#: ../functions/class.Nav_Menu_Roles_Import.php:140
+msgid "Have fun!"
+msgstr ""
+
+#: ../functions/class.Nav_Menu_Roles_Import.php:160
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../functions/class.Nav_Menu_Roles_Import.php:176
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../functions/class.Nav_Menu_Roles_Import.php:244
+msgid "Import Nav Menu Roles"
+msgstr ""
+
+#: ../functions/class.Nav_Menu_Roles_Import.php:251
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../functions/class.Nav_Menu_Roles_Import.php:266
+msgid ""
+"Re-Upload your normal WordPress eXtended RSS (WXR) file and we&#8217;ll "
+"import the Nav Menu Roles and any other missing post meta for the Nav Menu "
+"items."
+msgstr ""
+
+#: ../functions/class.Nav_Menu_Roles_Import.php:267
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:87
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:91
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:104
+msgid "sub item"
+msgstr ""
+
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:136
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:145
+msgid "URL"
+msgstr ""
+
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:152
+msgid "Navigation Label"
+msgstr ""
+
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:158
+msgid "Title Attribute"
+msgstr ""
+
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:165
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:170
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:176
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:182
+msgid "Description"
+msgstr ""
+
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:184
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:197
+msgid "Up one"
+msgstr ""
+
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:198
+msgid "Down one"
+msgstr ""
+
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:201
+msgid "To the top"
+msgstr ""
+
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:208
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:221
+msgid "Remove"
+msgstr ""
+
+#: ../functions/class.Walker_Nav_Menu_Edit_Roles.php:222
+msgid "Cancel"
+msgstr ""
+
+#: ../functions/common-scripts.php:58
+msgid "LOADING ..."
+msgstr ""
+
+#: ../functions/common-scripts.php:61
+msgid "LOAD MORE"
+msgstr ""
+
+#: ../functions/common-scripts.php:62
+msgid "Already the last page"
+msgstr ""
+
+#: ../functions/common-scripts.php:78
+msgid "Being submitted, please wait ..."
+msgstr ""
+
+#: ../functions/common-scripts.php:79
+msgid "Submitted successfully"
+msgstr ""
+
+#: ../functions/common-scripts.php:80
+msgid "Prior to refresh the page, you can"
+msgstr ""
+
+#: ../functions/common-scripts.php:81
+msgid "edit again"
+msgstr ""
+
+#: ../functions/common-scripts.php:82
+msgid "Cancel Edit"
+msgstr ""
+
+#: ../functions/functions-edd.php:116 ../functions/functions-edd.php:118
+msgid "EDD Archive Widget Area"
+msgstr ""
+
+#: ../functions/functions-edd.php:123 ../functions/functions-edd.php:125
+msgid "EDD Single Download Widget Area"
+msgstr ""
+
+#: ../functions/nav-menu-roles.php:83 ../functions/nav-menu-roles.php:92
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ../functions/nav-menu-roles.php:171
+msgid "Nav Menu Roles"
+msgstr ""
+
+#: ../functions/nav-menu-roles.php:171
+#, php-format
+msgid ""
+"Import %snav menu roles%s and other menu item meta skipped by the default "
+"importer"
+msgstr ""
+
+#: ../functions/nav-menu-roles.php:324
+msgid "Display Mode"
+msgstr ""
+
+#: ../functions/nav-menu-roles.php:332
+msgid "Logged In Users"
+msgstr ""
+
+#: ../functions/nav-menu-roles.php:339
+msgid "Logged Out Users"
+msgstr ""
+
+#: ../functions/nav-menu-roles.php:346
+msgid "Everyone"
+msgstr ""
+
+#: ../functions/nav-menu-roles.php:353
+msgid "Limit logged in users to specific roles"
+msgstr ""
+
+#: ../functions/seo-meta-box.php:13
+msgid "SEO Settings"
+msgstr ""
+
+#: ../functions/seo-meta-box.php:37
+msgid "SEO title"
+msgstr ""
+
+#: ../functions/seo-meta-box.php:41
+msgid ""
+"You can set a different title for the page &lt;title&gt; label. Its priority "
+"is higher than the default title of this article."
+msgstr ""
+
+#: ../functions/seo-meta-box.php:46
+msgid "SEO Keywords"
+msgstr ""
+
+#: ../functions/seo-meta-box.php:50
+msgid ""
+"Contents set here will be used as the value of the page keywords meta, and "
+"multiple keywords separated by commas. Its priority is higher than the tags "
+"of this article."
+msgstr ""
+
+#: ../functions/seo-meta-box.php:55
+msgid "SEO Description"
+msgstr ""
+
+#: ../functions/seo-meta-box.php:59
+msgid ""
+"Contents set here will be used as the value of the page description meta. "
+"Its priority is higher than the excerpt of this article."
+msgstr ""
+
+#: ../functions/seo-meta-box.php:64
+msgid "Original website"
+msgstr ""
+
+#: ../functions/seo-meta-box.php:68
+msgid ""
+"If this is an original article, please leave blank. Otherwise, please fill "
+"in the name of the original website."
+msgstr ""
+
+#: ../functions/seo-meta-box.php:73
+msgid "Original author"
+msgstr ""
+
+#: ../functions/seo-meta-box.php:77
+msgid ""
+"If this is an original article, please leave blank. Otherwise, please fill "
+"in the name of the original author. If you don't know the name of the "
+"author, please fill in the name of the original website, the same as above."
+msgstr ""
+
+#: ../functions/seo-meta-box.php:82
+msgid "Original URL"
+msgstr ""
+
+#: ../functions/seo-meta-box.php:86
+msgid ""
+"If this is an original article, please leave blank. Otherwise, please fill "
+"in the original url of the article, including http:// or https:// ."
+msgstr ""
+
+#: ../functions/seo.php:35 ../tag.php:19
+#, php-format
+msgid "The following articles associated with the tag: %s"
+msgstr ""
+
+#: ../functions/seo.php:131
+#, php-format
+msgid "Posts of search results for: %s"
+msgstr ""
+
+#: ../functions/seo.php:135
+#, php-format
+msgid "Posts of author: %s"
+msgstr ""
+
+#: ../functions/seo.php:140
+#, php-format
+msgid "Page %s:"
+msgstr ""
+
+#: ../functions/theme-functions.php:30
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions/theme-functions.php:31
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions/theme-functions.php:32
+msgid "Footer Link"
+msgstr ""
+
+#: ../functions/theme-functions.php:33
+msgid "User Menu"
+msgstr ""
+
+#: ../functions/theme-functions.php:35
+msgid "Page Group 1 Menu"
+msgstr ""
+
+#: ../functions/theme-functions.php:36
+msgid "Page Group 2 Menu"
+msgstr ""
+
+#: ../functions/theme-functions.php:48
+msgid ""
+"WordPress version you are currently using is less than 4.2, in order to "
+"ensure the normal use of the theme, please update to version 4.2 or above."
+msgstr ""
+
+#: ../functions/theme-functions.php:80
+msgid ""
+"This theme requires you to install the <strong> WP-PostViews </strong> "
+"plugin, <a href=\"http://wordpress.org/plugins/wp-postviews/\" target="
+"\"_blank\">download it from here</a>."
+msgstr ""
+
+#: ../functions/theme-functions.php:102
+msgid "Custom Post Types Archive"
+msgstr ""
+
+#: ../functions/theme-functions.php:124
+msgid "Add to menu"
+msgstr ""
+
+#: ../functions/theme-functions.php:129
+msgid "No Custom Post Types."
+msgstr ""
+
+#: ../functions/theme-functions.php:420
+msgid "Please Visit \"Appearance > Menus\" to build menus"
+msgstr ""
+
+#: ../functions/theme-functions.php:438
+msgid "QQ Mail Me"
+msgstr ""
+
+#: ../functions/theme-functions.php:439
+#: ../includes/widgets/widget-follow-subscribe.php:43
+#: ../panel/mpanel-ui.php:1495
+msgid "QQ Weibo"
+msgstr ""
+
+#: ../functions/theme-functions.php:466 ../functions/theme-functions.php:469
+#: ../page-user-list.php:92 ../page-user-list.php:95
+#, php-format
+msgid ""
+"Please visit <a href=\"%s\">Your Profile</a> to fill in Biographical Info."
+msgstr ""
+
+#: ../functions/theme-functions.php:471 ../page-user-list.php:97
+msgid "The user is lazy, not fill in his Biographical Info."
+msgstr ""
+
+#: ../functions/theme-functions.php:483 ../page-user-list.php:107
+#, php-format
+msgid "Read more articles of %s"
+msgstr ""
+
+#: ../functions/theme-functions.php:488 ../page-user-list.php:111
+#, php-format
+msgid "Visit %s's site"
+msgstr ""
+
+#: ../functions/theme-functions.php:493 ../page-user-list.php:116
+#, php-format
+msgid "Contact %s by QQ"
+msgstr ""
+
+#: ../functions/theme-functions.php:498 ../page-user-list.php:121
+#, php-format
+msgid "Contact %s by Private Messages"
+msgstr ""
+
+#: ../functions/theme-functions.php:502 ../page-user-list.php:125
+#, php-format
+msgid "Contact %s by Email"
+msgstr ""
+
+#: ../functions/theme-functions.php:507 ../page-user-list.php:130
+#, php-format
+msgid "Follow %s on Sina Weibo"
+msgstr ""
+
+#: ../functions/theme-functions.php:512 ../page-user-list.php:135
+#, php-format
+msgid "Follow %s on QQ Weibo"
+msgstr ""
+
+#: ../functions/theme-functions.php:517 ../page-user-list.php:140
+#, php-format
+msgid "Follow %s on Twitter"
+msgstr ""
+
+#: ../functions/theme-functions.php:522 ../page-user-list.php:145
+#, php-format
+msgid "Follow %s on Google+"
+msgstr ""
+
+#: ../functions/theme-functions.php:538
+msgid ""
+"Expand / Collapse All </a>] <em>(Note: Click on the month you can expand "
+"it)</em>"
+msgstr ""
+
+#: ../functions/theme-functions.php:553
+msgid "Day:"
+msgstr ""
+
+#: ../functions/theme-functions.php:558
+msgid " Year"
+msgstr ""
+
+#: ../functions/theme-functions.php:565
+msgid " Month"
+msgstr ""
+
+#: ../functions/theme-functions.php:565
+msgid " Posts"
+msgstr ""
+
+#: ../functions/theme-functions.php:624
+msgid "Your comment is awaiting moderation ..."
+msgstr ""
+
+#: ../functions/theme-functions.php:630
+msgid "[Reply]"
+msgstr ""
+
+#: ../functions/theme-functions.php:658
+#, php-format
+msgid "[%s] Hi, %s! %s just reply to your comments"
+msgstr ""
+
+#: ../functions/theme-functions.php:663
+msgid "Comment Reply notice"
+msgstr ""
+
+#: ../functions/theme-functions.php:668
+#, php-format
+msgid "Hi, %s! %s just reply to your comments."
+msgstr ""
+
+#: ../functions/theme-functions.php:671
+#, php-format
+msgid "Your comments on [<a href=\"%s\">%s</a>]:"
+msgstr ""
+
+#: ../functions/theme-functions.php:677
+msgid " Reply to you:"
+msgstr ""
+
+#: ../functions/theme-functions.php:684
+#, php-format
+msgid "Click <a href=\"%s\">HERE</a> for more details and reply to %s."
+msgstr ""
+
+#: ../functions/theme-functions.php:687
+msgid "Welcome back to"
+msgstr ""
+
+#: ../functions/theme-functions.php:690
+msgid ""
+"Note: This message is sent automatically by the system, do not reply to."
+msgstr ""
+
+#: ../functions/theme-functions.php:694
+#, php-format
+msgid "© %s all rights reserved"
+msgstr ""
+
+#: ../functions/theme-functions.php:705
+msgid "E-mail me when someone replies to me."
+msgstr ""
+
+#: ../functions/theme-functions.php:799
+msgid "Posts "
+msgstr ""
+
+#: ../functions/theme-functions.php:834 ../functions/theme-functions.php:838
+#: ../functions/theme-functions.php:854 ../functions/theme-functions.php:877
+#: ../functions/theme-functions.php:899 ../functions/theme-functions.php:927
+#: ../includes/download-related.php:33 ../includes/download-related.php:37
+#: ../includes/post-related.php:33 ../includes/post-related.php:37
+#: ../includes/post-related.php:53 ../includes/post-related.php:57
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../functions/theme-functions.php:951
+msgid "ago"
+msgstr ""
+
+#: ../functions/theme-functions.php:1169
+#, php-format
+msgid ""
+"Note: This article is reproduced from %s, posted by %s, original URL: <a "
+"href=\"%s\" target=\"_blank\" %s>%s</a>"
+msgstr ""
+
+#: ../functions/theme-functions.php:1171
+#, php-format
+msgid ""
+"Note: This is an original article, posted by %s, please keep this statement "
+"and URL link when reproduced: <a href=\"%s\" target=\"_blank\">%s</a>"
+msgstr ""
+
+#: ../functions/theme-functions.php:1222
+msgid ""
+"To add a custom link, <strong>expand the Custom Links section, enter a URL "
+"and link text, and click Add to Menu</strong>"
+msgstr ""
+
+#: ../functions/theme-functions.php:1710 ../functions/theme-functions.php:1769
+msgid "No items in the selected time period."
+msgstr ""
+
+#: ../functions/theme-functions.php:1802
+msgid "Frontend User Menu"
+msgstr ""
+
+#: ../functions/theme-functions.php:1883
+msgid "Registration"
+msgstr ""
+
+#: ../functions/theme-functions.php:1884
+msgid "Last login"
+msgstr ""
+
+#: ../header.php:17
+msgid "Navigation menu"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:15
+msgid "Go to Home"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:15
+msgid "Home"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:55 ../includes/breadcrumbs.php:67
+msgid "article"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:99
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:104
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:112
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:119
+#, php-format
+msgid "( Page %s )"
+msgstr ""
+
+#: ../includes/download-related.php:28
+msgid "Related Downloads"
+msgstr ""
+
+#: ../includes/home-links.php:4
+msgid "Links"
+msgstr ""
+
+#: ../includes/pagenavi.php:117
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: ../includes/pagenavi.php:120
+msgid "&laquo; First"
+msgstr ""
+
+#: ../includes/pagenavi.php:121
+msgid "Last &raquo;"
+msgstr ""
+
+#: ../includes/pagenavi.php:124 ../includes/pagenavi.php:125
+msgid "..."
+msgstr ""
+
+#: ../includes/post-related.php:25
+msgid "Random Articles"
+msgstr ""
+
+#: ../includes/post-related.php:48
+msgid "Related Articles"
+msgstr ""
+
+#: ../includes/reward.php:2
+msgid ""
+"If the article is helpful to you, please click on the button to reward the "
+"author"
+msgstr ""
+
+#: ../includes/reward.php:4
+msgid "Alipay reward"
+msgstr ""
+
+#: ../includes/reward.php:6
+msgid "Wechatpay reward"
+msgstr ""
+
+#: ../includes/reward.php:10
+msgid "$"
+msgstr ""
+
+#: ../includes/top-bar.php:23
+msgid "Manage"
+msgstr ""
+
+#: ../includes/top-bar.php:30 ../includes/widgets/widget-login.php:47
+msgid "Dashboard"
+msgstr ""
+
+#: ../includes/top-bar.php:31 ../includes/widgets/widget-login.php:48
+msgid "New Post"
+msgstr ""
+
+#: ../includes/top-bar.php:32
+msgid "New Page"
+msgstr ""
+
+#: ../includes/top-bar.php:33
+msgid "Edit Comments"
+msgstr ""
+
+#: ../includes/top-bar.php:34
+msgid "Edit Profile"
+msgstr ""
+
+#: ../includes/top-bar.php:45
+#, php-format
+msgid "You have %s unread message."
+msgstr ""
+
+#: ../includes/top-bar.php:49
+#, php-format
+msgid "You have %s unread announcement."
+msgstr ""
+
+#: ../includes/top-bar.php:56 ../includes/widgets/widget-login.php:50
+msgid "Logout"
+msgstr ""
+
+#: ../includes/top-bar.php:60 ../includes/top-bar.php:67
+#: ../includes/widgets/widget-login.php:63
+msgid "Login"
+msgstr ""
+
+#: ../includes/top-bar.php:68
+msgid "Lost password ?"
+msgstr ""
+
+#: ../includes/top-bar.php:86
+msgid "Join QQ group"
+msgstr ""
+
+#: ../includes/top-bar.php:92
+msgid "Weixin"
+msgstr ""
+
+#: ../includes/top-bar.php:116
+msgid "Input and press Enter"
+msgstr ""
+
+#: ../includes/top-bar.php:117
+msgid "Search"
+msgstr ""
+
+#: ../includes/widgets.php:48
+msgid "Primary Widget Area"
+msgstr ""
+
+#: ../includes/widgets.php:50
+msgid "The Primary widget area"
+msgstr ""
+
+#: ../includes/widgets.php:57
+msgid "Questions Widget Area"
+msgstr ""
+
+#: ../includes/widgets.php:59
+msgid "The Questions widget area"
+msgstr ""
+
+#: ../includes/widgets/widget-author-posts.php:11
+msgid " - Posts By Post Author"
+msgstr ""
+
+#: ../includes/widgets/widget-author-posts.php:12
+msgid "Display posts of current author."
+msgstr ""
+
+#: ../includes/widgets/widget-author-posts.php:28
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../includes/widgets/widget-author-posts.php:36
+msgid "All"
+msgstr ""
+
+#: ../includes/widgets/widget-author-posts.php:54
+#: ../includes/widgets/widget-author.php:39
+msgid "This Widget appears in single post only ."
+msgstr ""
+
+#: ../includes/widgets/widget-author-posts.php:56
+#: ../includes/widgets/widget-category.php:54
+#: ../includes/widgets/widget-news-pic.php:52
+#: ../includes/widgets/widget-posts.php:57
+#: ../includes/widgets/widget-slider.php:200
+msgid "Number of posts to show: "
+msgstr ""
+
+#: ../includes/widgets/widget-author-posts.php:60
+msgid "Display ( see all ) link : "
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:11
+msgid " - Post Author"
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:12
+msgid "Display author's information in single post page."
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:23
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:41
+msgid "Display author's avatar : "
+msgstr ""
+
+#: ../includes/widgets/widget-author.php:45
+msgid "Display Social icons : "
+msgstr ""
+
+#: ../includes/widgets/widget-category.php:10
+msgid " - Category Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-category.php:11
+msgid "Display posts of any category."
+msgstr ""
+
+#: ../includes/widgets/widget-category.php:41
+msgid "Category Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-category.php:50
+#: ../includes/widgets/widget-comment.php:48
+#: ../includes/widgets/widget-follow-subscribe.php:93
+#: ../includes/widgets/widget-login.php:66
+#: ../includes/widgets/widget-news-pic.php:48
+#: ../includes/widgets/widget-posts.php:53
+#: ../includes/widgets/widget-qr-code.php:79
+#: ../includes/widgets/widget-readers.php:40
+#: ../includes/widgets/widget-slider.php:192
+#: ../includes/widgets/widget-statistics.php:120
+#: ../includes/widgets/widget-tag-cloud.php:70
+#: ../includes/widgets/widget-text-html.php:58
+msgid "Title : "
+msgstr ""
+
+#: ../includes/widgets/widget-category.php:59
+#: ../includes/widgets/widget-news-pic.php:57
+#: ../includes/widgets/widget-slider.php:258
+msgid "Category : "
+msgstr ""
+
+#: ../includes/widgets/widget-category.php:67
+#: ../includes/widgets/widget-posts.php:69
+msgid "Display Thumbinals : "
+msgstr ""
+
+#: ../includes/widgets/widget-comment.php:8
+msgid " - Recently Comments"
+msgstr ""
+
+#: ../includes/widgets/widget-comment.php:9
+msgid ""
+"Display vistor's recently comments(including avatar, name and comment text)"
+msgstr ""
+
+#: ../includes/widgets/widget-comment.php:36
+msgid "Recently Comments"
+msgstr ""
+
+#: ../includes/widgets/widget-comment.php:53
+#: ../includes/widgets/widget-readers.php:44
+msgid "Number: "
+msgstr ""
+
+#: ../includes/widgets/widget-comment.php:58
+msgid "Exclude user(ID): "
+msgstr ""
+
+#: ../includes/widgets/widget-comment.php:63
+msgid "Exclude post(ID): "
+msgstr ""
+
+#: ../includes/widgets/widget-comment.php:84
+#: ../includes/widgets/widget-comment.php:89
+#, php-format
+msgid "Comments on %s"
+msgstr ""
+
+#: ../includes/widgets/widget-custom-author.php:10
+msgid " - Custom Author Bio"
+msgstr ""
+
+#: ../includes/widgets/widget-custom-author.php:11
+msgid "Custom author's information."
+msgstr ""
+
+#: ../includes/widgets/widget-custom-author.php:42
+msgid "About Author"
+msgstr ""
+
+#: ../includes/widgets/widget-custom-author.php:49
+msgid "Avatar : "
+msgstr ""
+
+#: ../includes/widgets/widget-custom-author.php:53
+msgid "About : <i>You can use Shortcodes</i>"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-subscribe.php:10
+msgid " - Follow & Subscribe"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-subscribe.php:11
+msgid "Display your social and subscribe information."
+msgstr ""
+
+#: ../includes/widgets/widget-follow-subscribe.php:34
+msgid "Contact me by QQ"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-subscribe.php:37
+msgid "Send email"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-subscribe.php:52
+msgid "Feed Subscription"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-subscribe.php:57
+msgid "Subscribe To:"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-subscribe.php:58
+msgid "Youdao"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-subscribe.php:59
+msgid "Feedly"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-subscribe.php:61
+msgid "Subscribe URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-subscribe.php:70
+msgid "Enter your E-mail"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-subscribe.php:70
+msgctxt "Subscribe to Email"
+msgid "Subscribe"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-subscribe.php:90
+msgid "Follow & Subscribe"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-subscribe.php:97
+#: ../includes/widgets/widget-qr-code.php:107
+#: ../includes/widgets/widget-slider.php:196
+#: ../includes/widgets/widget-text-html.php:62
+msgid "Hide Widget Title :"
+msgstr ""
+
+#: ../includes/widgets/widget-follow-subscribe.php:100
+#, php-format
+msgid ""
+"Please visit <a href=\"%s\" target=\"_blank\">the theme options page</a> to "
+"set the Social Network."
+msgstr ""
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:9
+msgid " - List Custom Taxonomy"
+msgstr ""
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:10
+msgid "Display taxonomy."
+msgstr ""
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:105
+msgid "No Categories"
+msgstr ""
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:189
+#: ../includes/widgets/widget-recently-viewed.php:22
+msgid "Title:"
+msgstr ""
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:193
+msgid "Select Taxonomy:"
+msgstr ""
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:211
+msgid "More Options..."
+msgstr ""
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:213
+msgid "Hide Extended Options"
+msgstr ""
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:216
+msgid "Show post counts"
+msgstr ""
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:218
+msgid "Show hierarchy"
+msgstr ""
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:220
+msgid "Order By:"
+msgstr ""
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:230
+msgid "Ascending"
+msgstr ""
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:231
+msgid "Descending"
+msgstr ""
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:234
+msgid "Exclude (comma-separated list of ids to exclude)"
+msgstr ""
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:238
+msgid "Only Show Children of (category id)"
+msgstr ""
+
+#: ../includes/widgets/widget-list-custom-taxonomy.php:242
+msgid "Display as Dropdown"
+msgstr ""
+
+#: ../includes/widgets/widget-login.php:10
+msgid " - Login"
+msgstr ""
+
+#: ../includes/widgets/widget-login.php:11
+msgid "A Login Widget"
+msgstr ""
+
+#: ../includes/widgets/widget-login.php:30
+msgid "Username:"
+msgstr ""
+
+#: ../includes/widgets/widget-login.php:33
+msgid "Password:"
+msgstr ""
+
+#: ../includes/widgets/widget-login.php:49
+msgid "Your Profile"
+msgstr ""
+
+#: ../includes/widgets/widget-news-pic.php:10
+msgid " - News in Pictures"
+msgstr ""
+
+#: ../includes/widgets/widget-news-pic.php:11
+msgid "Display posts with big image of any category."
+msgstr ""
+
+#: ../includes/widgets/widget-news-pic.php:39
+msgid "News in Pictures"
+msgstr ""
+
+#: ../includes/widgets/widget-news-pic.php:65
+#: ../includes/widgets/widget-posts.php:61
+msgid "Posts order : "
+msgstr ""
+
+#: ../includes/widgets/widget-news-pic.php:67
+#: ../includes/widgets/widget-posts.php:63
+msgid "Most recent"
+msgstr ""
+
+#: ../includes/widgets/widget-news-pic.php:68
+#: ../includes/widgets/widget-posts.php:64 ../panel/mpanel-ui.php:777
+msgid "Random"
+msgstr ""
+
+#: ../includes/widgets/widget-posts.php:10
+msgid " - Posts list"
+msgstr ""
+
+#: ../includes/widgets/widget-posts.php:11
+msgid "Display latest posts, random posts or posts with most comments."
+msgstr ""
+
+#: ../includes/widgets/widget-posts.php:50 ../panel/mpanel-functions.php:54
+msgid "Recent Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-posts.php:65
+msgid "Popular"
+msgstr ""
+
+#: ../includes/widgets/widget-posts.php:72
+msgid "The following options apply only to popular."
+msgstr ""
+
+#: ../includes/widgets/widget-posts.php:74
+msgid "Time limit of popular: "
+msgstr ""
+
+#: ../includes/widgets/widget-qr-code.php:10
+msgid " - QR Code"
+msgstr ""
+
+#: ../includes/widgets/widget-qr-code.php:11
+msgid "QR Code for homepage and single post."
+msgstr ""
+
+#: ../includes/widgets/widget-qr-code.php:73
+msgid "QR Code"
+msgstr ""
+
+#: ../includes/widgets/widget-qr-code.php:76
+msgid "This widget only display on homepage and single posts"
+msgstr ""
+
+#: ../includes/widgets/widget-qr-code.php:83
+msgid "QR Code Size (default 150) : "
+msgstr ""
+
+#: ../includes/widgets/widget-qr-code.php:87
+msgid "Error Correction Level (default L) : "
+msgstr ""
+
+#: ../includes/widgets/widget-qr-code.php:96
+msgid "Margin (default Version 1) : "
+msgstr ""
+
+#: ../includes/widgets/widget-qr-code.php:111
+#: ../includes/widgets/widget-text-html.php:66
+msgid "Center content :"
+msgstr ""
+
+#: ../includes/widgets/widget-qr-code.php:115
+msgid "Cache QR Code :"
+msgstr ""
+
+#: ../includes/widgets/widget-qr-code.php:117
+msgid ""
+"To cache QR code, you must create a new folder named \"qrcode\" in the "
+"site's root directory, and make sure it is writable (0755).<br /><br />You "
+"can get more details from <a href=\"http://www.wpdaxue.com/add-qr-code-for-"
+"wordpress.html\" target=\"_blank\"> wpdaxue.com </a> & <a href=\"https://"
+"developers.google.com/chart/infographics/docs/qr_codes\" target=\"_blank\"> "
+"Google QR Code API </a>"
+msgstr ""
+
+#: ../includes/widgets/widget-readers.php:8
+msgid " - Active readers"
+msgstr ""
+
+#: ../includes/widgets/widget-readers.php:9
+msgid "Display avatar of the most active readers."
+msgstr ""
+
+#: ../includes/widgets/widget-readers.php:36
+msgid "Active readers"
+msgstr ""
+
+#: ../includes/widgets/widget-readers.php:48
+msgid "Exclude someone(ID): "
+msgstr ""
+
+#: ../includes/widgets/widget-readers.php:52
+msgid "Time limit(Days): "
+msgstr ""
+
+#: ../includes/widgets/widget-recently-viewed.php:7
+msgid " - Posts Viewed Recently"
+msgstr ""
+
+#: ../includes/widgets/widget-recently-viewed.php:8
+msgid ""
+"Display recent viewed posts/pages by a visitor as a responsive sidebar "
+"widget or in page/post using shortcode"
+msgstr ""
+
+#: ../includes/widgets/widget-recently-viewed.php:26
+msgid "Select Types:"
+msgstr ""
+
+#: ../includes/widgets/widget-recently-viewed.php:42
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../includes/widgets/widget-recently-viewed.php:47
+msgid "Shortcode:"
+msgstr ""
+
+#: ../includes/widgets/widget-recently-viewed.php:63
+msgid "Recent Visited Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:10
+msgid " - Slider"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:11
+msgid "Display posts using a slide."
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:204
+msgid "Width of images: "
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:208
+msgid "Height of images: "
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:212
+msgid "Transition mode : "
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:214 ../panel/mpanel-ui.php:440
+msgid "fade"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:215 ../panel/mpanel-ui.php:438
+msgid "horizontal"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:216 ../panel/mpanel-ui.php:439
+msgid "vertical"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:220
+msgid "Pause : "
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:224
+msgid "Display post's title :"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:228
+msgid "Hover pause :"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:232
+msgid "Auto play :"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:236
+msgid "Controls :"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:240
+msgid "Pager :"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:244
+msgid "Slider query : "
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:246
+msgid "latest"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:247
+msgid "sticky"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:248
+msgid "category"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:249
+msgid "tag"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:250
+msgid "post"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:251
+msgid "page"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:252
+msgid "custom"
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:255
+msgid ""
+"The following options are based on the above \"Slider query\" settings : "
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:264
+msgid ""
+"Select categories, use the Ctrl key combination to select multiple "
+"categories."
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:267
+msgid "Tags : "
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:269
+msgid "Enter the tag name, use commas to separate names."
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:272
+msgid "Posts : "
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:274
+msgid "Enter the post's ID, use commas to separate IDs."
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:277
+msgid "Pages : "
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:279
+msgid "Enter the page's ID, use commas to separate IDs."
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:283
+msgid "Custom : "
+msgstr ""
+
+#: ../includes/widgets/widget-slider.php:289
+msgid ""
+"Select a custom slider. Please make sure that you have created a custom "
+"slider at least, if not, <a  href=\"/wp-admin/post-new.php?"
+"post_type=cmp_slider\" target=\"_blank\">create one</a> now."
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:10
+msgid " - Statistics"
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:11
+msgid "Display Statistics of posts, comments, pages and so on."
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:34
+#, php-format
+msgid "Start Date : %s "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:43
+#, php-format
+msgid "Last Updated : %s "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:50
+#, php-format
+msgid "Online Days : %s "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:57
+#, php-format
+msgid "Users Number : %s "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:65
+#, php-format
+msgid "Posts Number : %s "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:72
+#, php-format
+msgid "Comments Number : %s "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:80
+#, php-format
+msgid "Pages Number : %s "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:87
+#, php-format
+msgid "Categories Number : %s "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:94
+#, php-format
+msgid "Tags Number : %s "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:124
+msgid "Start Date (e.g.2013-05-01) : "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:128
+msgid "Display Last Updated : "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:132
+msgid "Display Online Days : "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:136
+msgid "Display Users Number : "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:140
+msgid "Display Posts Number : "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:144
+msgid "Display Comments Number : "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:148
+msgid "Display Pages Number : "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:152
+msgid "Display Categories Number : "
+msgstr ""
+
+#: ../includes/widgets/widget-statistics.php:156
+msgid "Display Tags Number : "
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:10
+msgid " - Tag Cloud"
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:11
+msgid "Display the most common tags."
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:30 ../panel/mpanel-ui.php:486
+msgid "Tags"
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:72
+msgid "Tags page url: "
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:74
+msgid "Taxonomies :"
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:84
+msgid "Number to show (Default \"45\"): "
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:86
+msgid "Tags orderby (Default \"name\"]): "
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:88
+msgid "name"
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:89
+msgid "count"
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:92
+msgid "Tags order (Default \"ASC\"): "
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:94
+msgid "ASC"
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:95
+msgid "DESC"
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:96
+msgid "RAND"
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:99
+msgid "Unit (Default \"px\"):"
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:101
+msgid "px"
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:102
+msgid "pt"
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:103
+msgid "em"
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:104
+msgid "%"
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:107
+msgid "Smallest text size (Default \"12\"):"
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:109
+msgid "Largest text size (Default \"20\"):"
+msgstr ""
+
+#: ../includes/widgets/widget-tag-cloud.php:111
+msgid "Exclude tags (Use commas to separate IDs):"
+msgstr ""
+
+#: ../includes/widgets/widget-text-html.php:10
+msgid " - Text or Html"
+msgstr ""
+
+#: ../includes/widgets/widget-text-html.php:11
+msgid "Display custom text, support html and shortcode."
+msgstr ""
+
+#: ../includes/widgets/widget-text-html.php:55
+msgid "Text"
+msgstr ""
+
+#: ../includes/widgets/widget-text-html.php:70
+msgid "Text , Shortcodes or Html code : "
+msgstr ""
+
+#: ../index.php:43
+msgid "You can use Homepage builder to build your homepage"
+msgstr ""
+
+#: ../loop-blog.php:44 ../loop-blog.php:61 ../loop-blog.php:82 ../loop.php:35
+#: ../loop.php:52 ../loop.php:73 ../loop.php:99 ../loop.php:116
+#: ../loop.php:137 ../loop.php:163
+msgid "View More"
+msgstr ""
+
+#: ../loop-edd.php:24 ../loop-edd.php:47 ../loop-edd.php:71
+msgid "View Details"
+msgstr ""
+
+#: ../loop-edd.php:27 ../loop-edd.php:50 ../loop-edd.php:74
+msgid "Starting at: "
+msgstr ""
+
+#: ../loop-edd.php:29 ../loop-edd.php:52 ../loop-edd.php:76
+msgid "Price: "
+msgstr ""
+
+#: ../page-group-1.php:38 ../page-group-2.php:38 ../page-user-center.php:41
+msgid "Feedback "
+msgstr ""
+
+#: ../page-user-list.php:153
+#, php-format
+msgid " has published <span> %s </span> posts, latest posts: "
+msgstr ""
+
+#: ../page-wide-comment.php:35 ../page-wide.php:35 ../page.php:37
+#: ../single-download.php:46 ../single.php:41
+msgid "Pages:"
+msgstr ""
+
+#: ../panel/custom-slider.php:7
+msgid "Custom Sliders"
+msgstr ""
+
+#: ../panel/custom-slider.php:8
+msgid "Slider"
+msgstr ""
+
+#: ../panel/custom-slider.php:9 ../panel/custom-slider.php:10
+msgid "Add New Slider"
+msgstr ""
+
+#: ../panel/custom-slider.php:11
+msgid "All Sliders"
+msgstr ""
+
+#: ../panel/custom-slider.php:13
+msgid "Edit Slider"
+msgstr ""
+
+#: ../panel/custom-slider.php:14
+msgid "New Slider"
+msgstr ""
+
+#: ../panel/custom-slider.php:15
+msgid "View Slider"
+msgstr ""
+
+#: ../panel/custom-slider.php:39
+msgid "Slides"
+msgstr ""
+
+#: ../panel/custom-slider.php:66
+msgid "Choose Images | Hold CTRL to Multi Select ."
+msgstr ""
+
+#: ../panel/custom-slider.php:71 ../panel/mpanel-functions.php:91
+msgid "Select"
+msgstr ""
+
+#: ../panel/custom-slider.php:81 ../panel/custom-slider.php:106
+msgid "Slide Title:"
+msgstr ""
+
+#: ../panel/custom-slider.php:81 ../panel/custom-slider.php:107
+msgid "Slide Caption:"
+msgstr ""
+
+#: ../panel/custom-slider.php:81 ../panel/custom-slider.php:108
+msgid "Slide Link:"
+msgstr ""
+
+#: ../panel/custom-slider.php:81 ../panel/custom-slider.php:110
+#: ../panel/mpanel-ui.php:1793 ../panel/mpanel-ui.php:1846
+#: ../panel/mpanel-ui.php:1899 ../panel/mpanel-ui.php:1952
+#: ../panel/mpanel-ui.php:2005 ../panel/mpanel-ui.php:2058
+#: ../panel/mpanel-ui.php:2112 ../panel/mpanel-ui.php:2166
+#: ../panel/mpanel-ui.php:2220 ../panel/mpanel-ui.php:2272
+msgid "Open The Link In a new Tab"
+msgstr ""
+
+#: ../panel/custom-slider.php:93
+msgid "Add New Slide"
+msgstr ""
+
+#: ../panel/custom-slider.php:117
+msgid "Use the button above to add slides."
+msgstr ""
+
+#: ../panel/custom-slider.php:146
+msgid "Number of slides"
+msgstr ""
+
+#: ../panel/custom-slider.php:147
+msgid "ID"
+msgstr ""
+
+#: ../panel/custom-slider.php:148
+msgid "Date"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:47 ../panel/mpanel-ui.php:672
+#: ../panel/mpanel-ui.php:744 ../panel/mpanel-ui.php:803
+#: ../panel/mpanel-ui.php:840 ../panel/mpanel-ui.php:854
+#: ../panel/mpanel-ui.php:883
+msgid "Who can see this module:"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:48 ../panel/mpanel-ui.php:674
+#: ../panel/mpanel-ui.php:746 ../panel/mpanel-ui.php:805
+#: ../panel/mpanel-ui.php:842 ../panel/mpanel-ui.php:856
+#: ../panel/mpanel-ui.php:885 ../panel/mpanel-ui.php:1771
+#: ../panel/mpanel-ui.php:1824 ../panel/mpanel-ui.php:1877
+#: ../panel/mpanel-ui.php:1930 ../panel/mpanel-ui.php:1983
+#: ../panel/mpanel-ui.php:2036 ../panel/mpanel-ui.php:2090
+#: ../panel/mpanel-ui.php:2144 ../panel/mpanel-ui.php:2198
+#: ../panel/mpanel-ui.php:2250
+msgid "Anyone"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:49 ../panel/mpanel-ui.php:675
+#: ../panel/mpanel-ui.php:747 ../panel/mpanel-ui.php:806
+#: ../panel/mpanel-ui.php:843 ../panel/mpanel-ui.php:857
+#: ../panel/mpanel-ui.php:886 ../panel/mpanel-ui.php:1772
+#: ../panel/mpanel-ui.php:1825 ../panel/mpanel-ui.php:1878
+#: ../panel/mpanel-ui.php:1931 ../panel/mpanel-ui.php:1984
+#: ../panel/mpanel-ui.php:2037 ../panel/mpanel-ui.php:2091
+#: ../panel/mpanel-ui.php:2145 ../panel/mpanel-ui.php:2199
+#: ../panel/mpanel-ui.php:2251
+msgid "Only logged in users"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:50 ../panel/mpanel-ui.php:676
+#: ../panel/mpanel-ui.php:748 ../panel/mpanel-ui.php:807
+#: ../panel/mpanel-ui.php:844 ../panel/mpanel-ui.php:858
+#: ../panel/mpanel-ui.php:887 ../panel/mpanel-ui.php:1773
+#: ../panel/mpanel-ui.php:1826 ../panel/mpanel-ui.php:1879
+#: ../panel/mpanel-ui.php:1932 ../panel/mpanel-ui.php:1985
+#: ../panel/mpanel-ui.php:2038 ../panel/mpanel-ui.php:2092
+#: ../panel/mpanel-ui.php:2146 ../panel/mpanel-ui.php:2200
+#: ../panel/mpanel-ui.php:2252
+msgid "Only anonymous"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:51 ../panel/mpanel-ui.php:646
+msgid "News Box"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:52 ../panel/mpanel-ui.php:683
+#: ../panel/mpanel-ui.php:814 ../panel/mpanel-ui.php:894
+msgid "Box Category :"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:53 ../panel/mpanel-ui.php:690
+msgid "Posts Order :"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:55 ../panel/mpanel-ui.php:477
+#: ../panel/mpanel-ui.php:552 ../panel/mpanel-ui.php:691
+msgid "Latest Posts"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:56 ../panel/mpanel-ui.php:776
+msgid "Last Modified"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:57 ../panel/mpanel-ui.php:691
+msgid "Random Posts"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:58 ../panel/mpanel-ui.php:478
+msgid "Sticky Posts"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:59 ../panel/mpanel-ui.php:695
+#: ../panel/mpanel-ui.php:771 ../panel/mpanel-ui.php:821
+#: ../panel/mpanel-ui.php:965
+msgid "Number of posts to show :"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:60 ../panel/mpanel-ui.php:719
+msgid "Thumb/Avatar :"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:61 ../panel/mpanel-ui.php:722
+msgid "Display thumb"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:62 ../panel/mpanel-ui.php:723
+msgid "Display avatar"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:63 ../panel/mpanel-ui.php:721
+msgid "Just title"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:64 ../panel/mpanel-ui.php:698
+#: ../panel/mpanel-ui.php:902
+msgid "Box Style :"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:65 ../panel/mpanel-ui.php:648
+msgid "Scrolling Box"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:66 ../panel/mpanel-ui.php:645
+#: ../panel/mpanel-ui.php:739
+msgid "Recent/Random/Hot Posts"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:67 ../panel/mpanel-ui.php:755
+msgid "Select Custom Post Type :"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:68 ../panel/mpanel-ui.php:755
+msgid "Hold down the [ctrl] key to select or deselect multiple post types."
+msgstr ""
+
+#: ../panel/mpanel-functions.php:69
+msgid "Exclude Categories :"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:70 ../panel/mpanel-ui.php:763
+msgid "Hold down the [ctrl] key to select or deselect multiple categories."
+msgstr ""
+
+#: ../panel/mpanel-functions.php:71 ../panel/mpanel-ui.php:726
+#: ../panel/mpanel-ui.php:786 ../panel/mpanel-ui.php:823
+#: ../panel/mpanel-ui.php:866 ../panel/mpanel-ui.php:918
+msgid "Box Title :"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:72 ../panel/mpanel-ui.php:779
+msgid "Most Comment"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:73 ../panel/mpanel-ui.php:780
+msgid "Most Viewed"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:74 ../panel/mpanel-ui.php:783
+msgid "Days limit of popular :"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:75 ../panel/mpanel-ui.php:783
+msgid ""
+"Only when the Order is Most Comment or Most Viewed, this option is to take "
+"effect."
+msgstr ""
+
+#: ../panel/mpanel-functions.php:76 ../panel/mpanel-ui.php:650
+#: ../panel/mpanel-ui.php:835
+msgid "ADS"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:77
+msgid "News In Picture "
+msgstr ""
+
+#: ../panel/mpanel-functions.php:78 ../panel/mpanel-ui.php:916
+msgid "Show Title :"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:79 ../panel/mpanel-ui.php:651
+#: ../panel/mpanel-ui.php:930
+msgid "Divider"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:80 ../panel/mpanel-ui.php:937
+msgid ""
+"This module can repair the dislocation problem of \"Three modules in parallel"
+"\", please add this module at the top of the first one."
+msgstr ""
+
+#: ../panel/mpanel-functions.php:81 ../panel/mpanel-ui.php:680
+#: ../panel/mpanel-ui.php:752 ../panel/mpanel-ui.php:811
+#: ../panel/mpanel-ui.php:891
+msgid "Special Post Ids :"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:82 ../panel/mpanel-ui.php:680
+#: ../panel/mpanel-ui.php:681 ../panel/mpanel-ui.php:752
+#: ../panel/mpanel-ui.php:753 ../panel/mpanel-ui.php:811
+#: ../panel/mpanel-ui.php:812 ../panel/mpanel-ui.php:891
+#: ../panel/mpanel-ui.php:892
+msgid ""
+"You can enter the posts ids in the form here to display them (Multiple IDs "
+"separated by commas.e.g. 3,5,7); or leave it blank, and then set the "
+"following options to query the psots."
+msgstr ""
+
+#: ../panel/mpanel-functions.php:83 ../panel/mpanel-ui.php:729
+#: ../panel/mpanel-ui.php:789 ../panel/mpanel-ui.php:826
+#: ../panel/mpanel-ui.php:869 ../panel/mpanel-ui.php:921
+msgid "Icon :"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:84 ../panel/mpanel-ui.php:732
+#: ../panel/mpanel-ui.php:792 ../panel/mpanel-ui.php:829
+#: ../panel/mpanel-ui.php:872 ../panel/mpanel-ui.php:924
+msgid "More Text :"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:85
+msgid "More Posts"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:86 ../panel/mpanel-ui.php:735
+#: ../panel/mpanel-ui.php:795 ../panel/mpanel-ui.php:832
+#: ../panel/mpanel-ui.php:875 ../panel/mpanel-ui.php:927
+msgid "More Url :"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:87 ../panel/mpanel-ui.php:862
+msgid "User IDs :"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:88 ../panel/mpanel-ui.php:863
+#: ../panel/mpanel-ui.php:864
+msgid ""
+"You can enter the user ids in the form here to display them (Multiple IDs "
+"separated by commas.e.g. 3,5,7).ID number should be a multiple of 10, such "
+"as 10, 20 or 30 ids."
+msgstr ""
+
+#: ../panel/mpanel-functions.php:89 ../panel/mpanel-ui.php:940
+msgid "Delete this module."
+msgstr ""
+
+#: ../panel/mpanel-functions.php:90
+msgid "Choose Images"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:111
+msgid "Use this image"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:166 ../panel/mpanel-functions.php:167
+msgid " Settings"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:167
+msgid "Settings"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:237
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: ../panel/mpanel-functions.php:314
+msgid "Upload"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:18
+msgid "Select a page:"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:46
+msgid "Save Changes"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:49
+msgid ""
+"Hello, Thank you for using our theme. If this is your first time using the "
+"settings panel, you can click the \"Reset Settings\" button which is at the "
+"bottom to import some preset defaults, allowing you to quickly set the theme."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:54
+msgid "Changmeng's Works"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:61 ../panel/mpanel-ui.php:84
+msgid "General"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:62 ../panel/mpanel-ui.php:375
+msgid "Homepage"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:63 ../panel/mpanel-ui.php:249
+msgid "Header"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:64 ../panel/mpanel-ui.php:2420
+msgid "Archives"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:65 ../panel/mpanel-ui.php:1534
+msgid "Article"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:66 ../panel/mpanel-ui.php:2293
+msgid "Sidebars"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:67 ../panel/mpanel-ui.php:1755
+msgid "Banners"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:68 ../panel/mpanel-ui.php:2699
+msgid "Styling"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:69 ../panel/mpanel-ui.php:997
+msgid "Register & Login"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:70 ../panel/mpanel-ui.php:1141
+msgid "Frontend Post"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:72
+msgid "EDD Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:74 ../panel/mpanel-ui.php:1476
+#: ../panel/mpanel-ui.php:1480
+msgid "Social Network"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:75
+msgid "Advanced"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:76
+msgid "Theme Document"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:88
+msgid "Announcement"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:91
+msgid "Homepage Announcement"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:94
+msgid "Only show in the homepage, support for HTML code."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:98
+msgid "User Center Announcement"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:101
+msgid ""
+"Only show in the User Center Page Template, support for HTML code. Leave "
+"blank not show anything."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:105
+msgid "Title Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:108
+msgid "Display Blog name after title"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:111
+msgid "Display Blog name after title of all pages."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:115
+msgid "Separator between title and Blog name"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:118
+msgid ""
+"Separator between title and Blog name, you can use | , _ , - , > and so on. "
+"Default is '|'."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:124
+msgid "Favicon"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:127
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:130
+msgid "Upload a icon (.ico), size 32x32 or 16x16"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:135
+msgid "Logo settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:138
+msgid "Blog Logo"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:141
+msgid ""
+"You can replace the logo from theme's images directory, or upload your blog "
+"logo here. The size of the logo is 180*48 px(Horizontal layout) or 260*70 "
+"px(Vertical layout). Best to use a transparent png image."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:144
+msgid "Login page Logo"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:147
+msgid "This logo will replace the logo of WP login page, 84*84px."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:150
+msgid "--Login page Logo url"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:153
+msgid ""
+"This url will replace the logo url of WP login page, must have http:// or "
+"https://"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:156
+msgid "--Login page Logo title"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:159
+msgid "This text will replace the logo title of WP login page."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:164
+msgid "Time format"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:167
+msgid "Time format for blog posts"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:170
+msgid "Traditional"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:171
+msgid "Time Ago Format"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:172
+msgid "Disable all"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:179
+msgid "Breadcrumbs Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:182
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:187
+msgid "Breadcrumbs output title of post"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:190
+msgid ""
+"In a single post, breadcrumbs output \"article\" at last, if you want to "
+"output the title of the post at last, check this option."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:196
+msgid "Thumbnail Resizing"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:198
+msgid ""
+"<p>You can choose one method to resize thumbnails.</p><p>\"Aqua Resizer\" "
+"and \"OTF Regenerate Thumbnails\" require that all images must be uploaded "
+"to the WP directory.</p><p>Qiniu imageView2 requires that all images must be "
+"synchronized to the Qiniu server. </p><p>Only Timthumb support remote "
+"images, but using timthumb may have security risks, so if you do not choose "
+"timthumb, please delete timthumb.php and timthumb-config.php in the  theme "
+"root directory.</p>"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:202
+msgid "Thumbnail resizing method"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:204
+msgid "Choose the method of resizing thumbnail. Default is Aqua Resizer."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:206
+msgid "Aqua Resizer"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:207
+msgid "OTF Regenerate Thumbnails"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:208
+msgid "Timthumb"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:209
+msgid "Qiniu imageView2"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:213
+msgid "Timthumb Crop mode"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:215
+msgid "Crop mode of thumb, default: Scaled in proportion(Cropping) ."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:218
+msgid "Fixed height and width(No cropping)"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:219
+msgid "Scaled in proportion(Cropping)"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:220
+msgid "Scaled in proportion(No cropping)"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:223
+msgid "Thumb Quality"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:226
+msgid "The quality of thumb, max 100, default 90 ."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:233
+msgid "Header Code"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:235
+msgid ""
+"The following code will add to the &lt;head&gt; tag. Useful if you need to "
+"add additional scripts such as CSS or JS."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:240
+msgid "Footer Code"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:242
+msgid ""
+"The following code will add to the &lt;footer&gt; tag. You can add Copyright "
+"text or Analysis code."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:255
+msgid "Hide WP Admin Bar"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:258
+msgid ""
+"If you have set the front-end user management menu, you can hide WordPress "
+"Admin Bar for all users."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:261
+msgid "Left Top Nav"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:264
+msgid "Show Login Module"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:268
+msgid "-- Custom Login Url:"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:271
+msgid ""
+"Fill in a login url (including http://), Leave blank to use WP default login "
+"url."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:274
+msgid "-- Custom Register Url:"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:277
+msgid ""
+"Please enable registration option in the general setting page, then fill in "
+"a custom registration url (including http://), Leave blank to use WP default "
+"registration url."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:280
+msgid "-- Custom Lost Password Url:"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:283
+msgid ""
+"Fill in a custom lost password url (including http://), Leave blank to use "
+"WP default lost password url."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:286
+msgid "-- Custom Profile edit Url:"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:289
+msgid ""
+"Fill in the profile edit url (including http://), Leave blank to use WP "
+"default profile edit url."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:292
+msgid "Show QQ Qun"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:296
+msgid "-- Url:"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:300
+msgid "-- Title:"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:304
+msgid "Show QQ Chat"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:308
+msgid "-- QQ Code:"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:312
+msgid "Show Weixin"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:316
+msgid "-- Weixin Image"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:319
+msgid "You can upload your weixin image here. The size is 200*200 px."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:322
+msgid "Show Sina Weibo"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:326 ../panel/mpanel-ui.php:347
+msgid "-- Uid:"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:330 ../panel/mpanel-ui.php:351
+msgid "-- Type:"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:334 ../panel/mpanel-ui.php:355
+msgid "Only button"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:335 ../panel/mpanel-ui.php:356
+msgid "Button + number"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:339
+msgid "Show QQ Weibo"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:343
+msgid "-- Name:"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:362
+msgid "Fixed main menu (Vertical Layout)"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:365
+msgid "Fixed main menu"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:368
+msgid ""
+"If you want to fixed the main menu while scrolling down the page, please "
+"check this option.Take effect only on the vertical layout."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:379
+msgid "Homepage SEO"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:382
+msgid "Homepage Title"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:387
+msgid "Homepage Keywords"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:390
+msgid "Keywords separated by commas."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:394
+msgid "Homepage Description"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:402
+msgid "Homepage Slider"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:405
+msgid "Enable Homepage Slider"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:409
+msgid "Slider Style"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:412 ../panel/mpanel-ui.php:422
+msgid ""
+"The number of slides to be shown. Slides will be sized down if carousel "
+"becomes smaller than the original size."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:414
+msgid "Slide Wide No ADs"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:415
+msgid "Slide + ADs"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:416
+msgid "Slide No ADs (Blog Layout only)"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:419
+msgid "Number of images per screen"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:424
+msgid "One"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:425
+msgid "Two"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:426
+msgid "Three"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:427
+msgid "Four"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:430
+msgid "Image Height(px)"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:434
+msgid "Slideshow Mode"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:443
+msgid "Autoplay"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:447
+msgid "AutoHover"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:451
+msgid "Controls"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:455
+msgid "Pager"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:463
+msgid "Slideshow Speed"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:470
+msgid "Number Of Posts To Show"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:474 ../panel/mpanel-ui.php:1687
+msgid "Query Type"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:480 ../panel/mpanel-ui.php:1435
+#: ../panel/mpanel-ui.php:1690
+msgid "Tag"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:481
+msgid "Selctive Posts"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:482
+msgid "Selctive pages"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:483 ../panel/mpanel-ui.php:519
+msgid "Custom Slider"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:487
+msgid "Enter a tag name, or names seprated by comma. "
+msgstr ""
+
+#: ../panel/mpanel-ui.php:505
+msgid ""
+"Choose categories yuo want to show . Use [Ctrl] key to choose multiple "
+"categories. "
+msgstr ""
+
+#: ../panel/mpanel-ui.php:509
+msgid "Selctive Posts IDs"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:510
+msgid "Enter a post ID, or IDs seprated by comma. "
+msgstr ""
+
+#: ../panel/mpanel-ui.php:514
+msgid "Selctive Pages IDs"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:515
+msgid "Enter a page ID, or IDs seprated by comma. "
+msgstr ""
+
+#: ../panel/mpanel-ui.php:520
+msgid "Choose your custom slide"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:527
+msgid "Show Links"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:530
+msgid "Show Links in Homepage Footer"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:533
+msgid "If checked, Please visit Appearance - Menus to set a Footer Link menu."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:539 ../panel/mpanel-ui.php:542
+msgid "Homepage displays"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:545
+msgid "Latest posts - Blog Layout"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:546
+msgid "CMS Layout - Using Home Builder"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:555
+msgid "List Style"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:559 ../panel/mpanel-ui.php:1400
+#: ../panel/mpanel-ui.php:2460 ../panel/mpanel-ui.php:2560
+msgid "Simple Title List"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:560 ../panel/mpanel-ui.php:1401
+#: ../panel/mpanel-ui.php:2461 ../panel/mpanel-ui.php:2529
+msgid "Row Thumb"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:561 ../panel/mpanel-ui.php:1402
+#: ../panel/mpanel-ui.php:2462 ../panel/mpanel-ui.php:2490
+msgid "Small Thumb + Excerpt"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:562 ../panel/mpanel-ui.php:1403
+#: ../panel/mpanel-ui.php:2463 ../panel/mpanel-ui.php:2507
+msgid "Big Thumb + Excerpt"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:563 ../panel/mpanel-ui.php:1404
+#: ../panel/mpanel-ui.php:2464 ../panel/mpanel-ui.php:2518
+msgid "Original Image + Excerpt"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:566
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:568
+msgid ""
+"If home slider show sticky posts, I propose to ignore the sticky posts from "
+"latest posts here."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:572
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:574
+msgid "Default is 10."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:578
+msgid "Exclude Categories"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:580
+msgid ""
+"Use minus sign (-) to exclude categories from Latest posts on homepage. "
+"Example: (-1,-4,-7) =  exclude Category 1,4,7."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:584
+msgid "Exclude Posts"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:586
+msgid ""
+"Use minus sign (-) to exclude posts from Latest posts on homepage. Example: "
+"(-2,-5,-8) =  exclude post 2,5,8."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:590 ../panel/mpanel-ui.php:2435
+msgid "Pagination Type"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:594 ../panel/mpanel-ui.php:2439
+msgid "Pagination"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:595 ../panel/mpanel-ui.php:2440
+msgid "Ajax loading more"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:599 ../panel/mpanel-ui.php:2444
+msgid "Turn to click ajax loading after scroll"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:601 ../panel/mpanel-ui.php:2446
+msgid ""
+"Turn to click ajax loading after scrolling how many times, default is 5. If "
+"you want never turn to click ajax loading, just set a large enough number, "
+"for example: 999999."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:612 ../panel/mpanel-ui.php:2431
+msgid ""
+"Important: The value of \"Posts Per Page\" ​​can not be less than the value of "
+"\"Blog pages show at most\", which is set in [Settins > Reading]. The "
+"current value of \"Blog pages show at most\" is "
+msgstr ""
+
+#: ../panel/mpanel-ui.php:618 ../panel/mpanel-ui.php:621
+msgid "First News Excerpt Length"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:628
+msgid "Home Builder"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:647
+msgid "News in picrure"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:649
+msgid "Users"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:653
+msgid "[-] Collapse All"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:654
+msgid "[+] Expand All"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:667
+msgid "News Box :"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:763
+msgid "Exclude This Categories :"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:773
+msgid "Order:"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:775
+msgid "Latest"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:778
+msgid "Stick"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:798
+msgid "Scrolling Box :"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:849
+msgid "Users :"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:878
+msgid "News In Picture :"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:935
+msgid "Height :"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:954
+msgid "Categories Tabs Box"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:957
+msgid "Show Category Tabs Box"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:961
+msgid "Display Thumb"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:983
+msgid "Choose Categories :"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1001 ../panel/mpanel-ui.php:1146
+msgid "Function switch"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1004
+msgid "Enable Register & Login Of This Theme"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1007
+msgid ""
+"If checked, will enable theme's custom registration and login functions."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1010 ../panel/mpanel-ui.php:1155
+msgid "Shortcodes"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1011
+msgid ""
+"Register: [cmpuser-register] <br/>Login: [cmpuser-login] <br/>Edit Profile: "
+"[cmpuser-edit-profile] <br/>Reset Password: [cmpuser-reset-password]"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1015
+msgid "Disable dashboard access for non-admin users?"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1018
+msgid ""
+"Please note that you can only log in through wp-login.php and this plugin. "
+"wp-admin permalink will be inaccessible."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1021
+msgid "Enable captcha?"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1024
+msgid ""
+"Honeypot antispam detection is enabled by default. For captcha usage the PHP-"
+"GD library needs to be enabled in your server/hosting."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1027
+msgid "Enable Standby role?"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1032
+msgid ""
+"Standby role disables all the capabilities for new users, until the "
+"administrator changes. It usefull for site with restricted components."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1035
+msgid "Choose the role(s) in the registration form?"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1038
+msgid ""
+"This feature allows you to choose the role from the frontend, with the "
+"selected roles you want to show. You can also define an standard predefined "
+"role through a shortcode parameter, e.g. [cmp-register role=\"contributor\"]."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1041
+msgid "-- Choose the role(s)"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1042
+msgid ""
+"You need to choose only the role(s) you want to accept to avoid security/"
+"infiltration issues."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1048
+msgid "Enable password complexity?"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1054
+msgid "Send notification email to admin?"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1057
+msgid ""
+"If checked, will send notification email to admin when new user registered."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1060
+msgid "Send account details email to the new user?"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1063
+msgid "If checked, will send account details email to the new user."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1066
+msgid "-- Email notification content"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1071
+msgid "Please use HMTL tags for all formatting. And also you can use:"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1074 ../panel/mpanel-ui.php:1077
+msgid "Accept terms / conditions in the registration form?"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1080
+msgid "-- Terms and conditions message"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1083
+msgid "Terms and conditions message."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1086
+msgid "-- Target URL"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1089
+msgid "Terms and conditions target URL."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1092 ../panel/mpanel-ui.php:1095
+msgid "Only ask for password once on registration form?"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1098 ../panel/mpanel-ui.php:1101
+msgid "Automatically Login after registration?"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1104 ../panel/mpanel-ui.php:1107
+msgid "URL after registration (if blank then homepage)"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1110 ../panel/mpanel-ui.php:1113
+msgid "Add first name and last name?"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1116 ../panel/mpanel-ui.php:1119
+msgid "Validate user registration through an email?"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1122
+msgid "This feature cannot be used with the automatic login after registration"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1125 ../panel/mpanel-ui.php:1128
+msgid "URL after login (if blank then homepage)"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1131 ../panel/mpanel-ui.php:1134
+msgid "URL after logout (if blank then homepage)"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1149
+msgid "Enable Frontend Post Of This Theme"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1152
+msgid "If checked, will enable theme's frontend post functions."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1156
+msgid ""
+"Frontend Post Form: [cmpuser-frontend-post] <br/>User Posts List: [cmpuser-"
+"post-list]"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1157
+msgid "Main Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1160
+msgid "Edit Page ID"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1163
+msgid ""
+"Enter the ID of the page where the edit form appears (the page where you "
+"entered the frontend post shortcode)."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1166
+msgid "Publish Status"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1175
+msgid "The Status assigned to the new Post (Publish, Pending, Draft, Private)."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1178
+msgid "Post Success Message"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1181
+msgid "Your custom post-success message."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1184
+msgid "Post Failure Message"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1187
+msgid "Your custom post-failure message."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1190
+msgid "Mail on New Post"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1193
+msgid "Check to notify admin on new post."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1196
+msgid "Display Login Link in Form"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1199
+msgid "Display a Login Link inside the form."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1202
+msgid "Allow selection of Post Format"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1205
+msgid "Allow the selection off the Post Format inside the form."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1208
+msgid "Hide regular WP Edit Link"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1209
+msgid "Hide the regular WordPress Edit Link."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1214
+msgid "Category Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1217
+msgid "Display Categories"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1221
+msgid "Droplist"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1222
+msgid "Check boxes"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1223
+msgid "Not display"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1225
+msgid ""
+"How categories appear at the front end.You can select not to display "
+"categories at all."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1228
+msgid "Categrory Order"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1232
+msgid "by ID"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1233
+msgid "by name"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1235
+msgid "The sort order of categories at the front end."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1238
+msgid "Field Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1241
+msgid "Require a Title"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1244
+msgid ""
+"Check to enforce the user to enter a title for his post.Please note that the "
+"Title will always be included - No Post without Title."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1247
+msgid "Show Separate Excerpt"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1250
+msgid "Check to display a separate field for the excerpt."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1253
+msgid "Content Field Style"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1257
+msgid "Plain Text"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1258
+msgid "Visual and HTML"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1259
+msgid "Visual Only"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1260
+msgid "HTML Only"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1262
+msgid ""
+"For responsive layouts it is recommended not to use the visual content field "
+"style,because some Android browsers don't support some of the tages used."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1265
+msgid "Allow Media Upload"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1268
+msgid "Allow user to upload new media file (picture, video)."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1271
+msgid "Allow Tags"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1274
+msgid "Check to display a field to enter tags."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1277
+msgid "Guest Post"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1280
+msgid "Allow guest to post"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1283
+msgid "Allow guests to post."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1286
+msgid "Email & Name for Guest Posts"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1289
+msgid "Check to require email and name for guest posts."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1292
+msgid "Guest Account ID"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1295
+msgid "The dedicated account that should be used for guest posts."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1298
+msgid "Allow Guests to select Category"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1301
+msgid ""
+"Check if you want guests to select categories themselves. If not checked the "
+"default category you specify below will be used for guest posts."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1304
+msgid "Category for Guest Posts"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1308
+msgid "The category guest posts should be assigned to."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1311
+msgid "Show Guests a Spam Prevention Quiz"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1314
+msgid "Display a Spam Prevention Quiz. Applies to useres not logged in."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1317
+msgid "Post List"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1320
+msgid "Enable post edit"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1323
+msgid "Check on to allow the author edit their posts."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1326
+msgid "Disable edit pending post"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1329
+msgid "Check on to disable edit pending post."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1332
+msgid "Enable post delete"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1335
+msgid "Check on to allow the author delete their posts."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1338
+msgid "Posts per page"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1341
+msgid "How many posts per page to display."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1349
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1355
+msgid "Custom EDD Labels and Slug"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1358
+msgid "Custom EDD Labels"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1361
+msgid ""
+"The format is [singular]|[plural], such as Download|Downloads. If left "
+"blank, will use edd default labels."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1364
+msgid "Custom EDD Slug"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1367
+msgid "If left blank, will use edd default slug."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1372
+#, php-format
+msgid ""
+"Important: After modifying EDD Slug, you must visit <a href=\"%s\" target="
+"\"_blank\">this page</a> to re-save the settings, otherwise it will not take "
+"effect."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1375
+msgid "EDD Archive Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1378
+msgid "EDD Archive Title"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1381
+msgid ""
+"You can set a different title for the EDD Archive page &lt;title&gt; label."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1384
+msgid "EDD Archive Keywords"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1387
+msgid ""
+"Contents set here will be used as the value of the EDD Archive page keywords "
+"meta, and multiple keywords separated by commas."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1390
+msgid "EDD Archive Description"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1393
+msgid ""
+"Contents set here will be used as the value of the EDD Archive page "
+"description meta."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1396
+msgid "EDD Archive Style"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1407
+msgid "Products per page for EDD Archive"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1410
+msgid "How many products you want to show per page in EDD Archives."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1414
+msgid ""
+"Important: The value of \"Products per page for EDD Archive\" ​​can not be "
+"less than the value of \"Blog pages show at most\", which is set in [Settins "
+"> Reading]. The current value of \"Blog pages show at most\" is "
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1416
+msgid "EDD Related Downloads"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1419
+msgid "Enable Related Downloads"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1423
+msgid "--Title Of Related Downloads"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1427
+msgid "--Number of Downloads to show"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1431
+msgid "--Query Type"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1438
+msgid "EDD Other Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1441 ../panel/mpanel-ui.php:1632
+msgid "Enable Reward author"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1444 ../panel/mpanel-ui.php:1635
+msgid "Display reward author at the bottom of the article."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1447
+msgid "Enable Share Buttons"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1450 ../panel/mpanel-ui.php:1665
+msgid "Display social share buttons."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1453
+msgid "Show Featured image On Single Download Page"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1456
+msgid ""
+"If you have set a Featured image for Single Download Page, just show it at "
+"the top of post title."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1459
+msgid "Open EDD Comments"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1462
+msgid "EDD is not allowed to comment default, check to open the comments."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1465
+msgid "Add Product Name To Purchase History"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1468
+msgid ""
+"EDD purchase history is not show the product name default, check to add "
+"product name."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1483
+msgid "Display Social Icon"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1487
+msgid "Don't forget http:// before link (except QQ and QQ Email List )."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1492
+msgid "e.g. http://weibo.com/hcm602"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1497
+msgid "e.g. http://t.qq.com/hcm602"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1502
+msgid "e.g. 745722006"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1507
+msgid "e.g. https://plus.google.com/105276589845964937994"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1512
+msgid "e.g. https://twitter.com/hcm602"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1515
+msgid ""
+"<a class=\"tooltip\" href=\"http://www.cmhello.com/list-qq-com.html\" target="
+"\"_blank\" title=\"Setting method of QQ Email List\">QQ Email List</a>"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1517
+msgid "e.g. 04d10e789e984f55c7eddb77e9ce652b631cbc84842b16fa"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1520
+msgid ""
+"<a class=\"tooltip\" href=\"http://www.cmhello.com/qq-email-me.html\" target="
+"\"_blank\" title=\"Setting method of QQ Email Email-me\">QQ Email Email-me</"
+"a>"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1522
+msgid ""
+"e.g. http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=0Lm9s72Qprmg-qGh-"
+"rO-vQ"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1525
+msgid "Custom Feed URL"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1527
+msgid "e.g. http://feed.feedsky.com/cmhello"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1538
+msgid "Original Article Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1541
+msgid "Output Original Metas To &lt;head&gt;"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1544
+msgid ""
+"Output original metas to <head> in single post and page, just for baidu seo."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1547
+msgid "Post Note Type"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1551
+msgid "Don't Display Note"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1552
+msgid "Dynamic Note"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1553
+msgid "Static Note"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1555
+msgid ""
+"The Post Note will display in the bottom of the content. If choose [Dynamic "
+"Note], the note will change according to the seo settings of the post. "
+"Otherwise, it shows the text of [Post Static Note]."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1558
+msgid "Nofollow Original Url"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1561
+msgid ""
+"If checked, it will add [rel=nofollow] to the original url when the post is "
+"reproduced."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1564
+msgid "Post Static Note"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1567
+msgid "Displayed at the bottom of the article, blank will not be displayed."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1571
+msgid "Article Elements"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1574
+msgid "Post Author Box"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1578
+msgid "Next/Prev Article"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1584
+msgid "Post Meta Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1587
+msgid "Post Meta :"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1591
+msgid "Page Meta :"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1595 ../panel/mpanel-ui.php:2591
+msgid "Author Meta"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1599 ../panel/mpanel-ui.php:2601
+msgid "Date Meta"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1603 ../panel/mpanel-ui.php:2606
+msgid "Views Meta"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1607
+msgid "Categories Meta"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1611 ../panel/mpanel-ui.php:2611
+msgid "Comments Meta"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1615 ../panel/mpanel-ui.php:2616
+msgid "Tags Meta"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1619
+msgid "Paragraph Indent"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1622
+msgid "Paragraph first line indent 2 characters"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1625
+msgid "Check this to make paragraph first line indent 2 characters."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1629
+msgid "Reward author"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1637
+msgid "Reward tips"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1641
+msgid "Alipay QR code image"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1644
+msgid "Upload alipay QRcode image, the size is 150*150 px."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1646
+msgid "Alipay tips"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1650
+msgid "Wechatpay QR code image"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1653
+msgid "Upload wechatpay QRcode image, the size is 150*150 px."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1655
+msgid "Wechatpay tips"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1659
+msgid "Share Post Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1662
+msgid "Share Post Buttons"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1670
+msgid "Related Posts Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1673
+msgid "Related Posts"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1677
+msgid "Custom Title"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1680
+msgid "Custom title of related posts box."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1683
+msgid "Number of posts to show"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1691
+msgid "Author"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1696
+msgid "Comment Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1699
+msgid "Remove Comment Part For Posts"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1702
+msgid "Remove the comment part for all posts."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1705
+msgid "Remove Comment Part For Pages"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1708
+msgid "Remove the comment part for all pages."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1711
+msgid "Enable Smilies"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1716
+msgid "Remove Url Field"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1719
+msgid "Check this to remove url field from comment form."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1722
+msgid "Enable Quicktags"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1725
+msgid ""
+"If you want to add a group of quicktag buttons to the comment form, please "
+"check this option"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1728
+msgid "Comment Mail Notify"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1733
+msgid "Anti Spam"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1736
+msgid "Check this can prevent most of the spam comments"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1739
+msgid "Comment must contain Chinese"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1742
+msgid ""
+"If your site visitors are almost all Chinese people, you can check this "
+"option."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1745
+msgid "Comment Textarea placeholder"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1748
+msgid "The placeholder text will display in the comment textarea."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1759
+msgid "Top Banner Area"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1762 ../panel/mpanel-ui.php:1815
+#: ../panel/mpanel-ui.php:1868 ../panel/mpanel-ui.php:1921
+#: ../panel/mpanel-ui.php:1974 ../panel/mpanel-ui.php:2027
+#: ../panel/mpanel-ui.php:2081 ../panel/mpanel-ui.php:2135
+#: ../panel/mpanel-ui.php:2189 ../panel/mpanel-ui.php:2241
+msgid "Enable"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1767 ../panel/mpanel-ui.php:1820
+#: ../panel/mpanel-ui.php:1873 ../panel/mpanel-ui.php:1926
+#: ../panel/mpanel-ui.php:1979 ../panel/mpanel-ui.php:2032
+#: ../panel/mpanel-ui.php:2086 ../panel/mpanel-ui.php:2140
+#: ../panel/mpanel-ui.php:2194 ../panel/mpanel-ui.php:2246
+msgid "Who can see this ads:"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1780 ../panel/mpanel-ui.php:1833
+#: ../panel/mpanel-ui.php:1886 ../panel/mpanel-ui.php:1939
+#: ../panel/mpanel-ui.php:1992 ../panel/mpanel-ui.php:2045
+#: ../panel/mpanel-ui.php:2099 ../panel/mpanel-ui.php:2153
+#: ../panel/mpanel-ui.php:2207 ../panel/mpanel-ui.php:2259
+msgid "You can upload a picture, or simply fill out the image URL."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1783 ../panel/mpanel-ui.php:1836
+#: ../panel/mpanel-ui.php:1889 ../panel/mpanel-ui.php:1942
+#: ../panel/mpanel-ui.php:1995 ../panel/mpanel-ui.php:2048
+#: ../panel/mpanel-ui.php:2102 ../panel/mpanel-ui.php:2156
+#: ../panel/mpanel-ui.php:2210 ../panel/mpanel-ui.php:2262
+msgid "Link"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1788 ../panel/mpanel-ui.php:1841
+#: ../panel/mpanel-ui.php:1894 ../panel/mpanel-ui.php:1947
+#: ../panel/mpanel-ui.php:2000 ../panel/mpanel-ui.php:2053
+#: ../panel/mpanel-ui.php:2107 ../panel/mpanel-ui.php:2161
+#: ../panel/mpanel-ui.php:2215 ../panel/mpanel-ui.php:2267
+msgid "Alternative Text For The image"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1798 ../panel/mpanel-ui.php:1851
+#: ../panel/mpanel-ui.php:1904 ../panel/mpanel-ui.php:1957
+#: ../panel/mpanel-ui.php:2010 ../panel/mpanel-ui.php:2063
+#: ../panel/mpanel-ui.php:2117 ../panel/mpanel-ui.php:2171
+msgid "Adsense Code"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1801 ../panel/mpanel-ui.php:1854
+#: ../panel/mpanel-ui.php:1907 ../panel/mpanel-ui.php:1960
+#: ../panel/mpanel-ui.php:2013 ../panel/mpanel-ui.php:2066
+#: ../panel/mpanel-ui.php:2120 ../panel/mpanel-ui.php:2174
+msgid ""
+"If you want to add more than one banner ad, clear image ads settings above, "
+"and then add your adsense code here."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1804 ../panel/mpanel-ui.php:1857
+#: ../panel/mpanel-ui.php:1910 ../panel/mpanel-ui.php:1963
+#: ../panel/mpanel-ui.php:2016 ../panel/mpanel-ui.php:2069
+#: ../panel/mpanel-ui.php:2123 ../panel/mpanel-ui.php:2177
+msgid "Mobile Adsense Code"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1807 ../panel/mpanel-ui.php:1860
+#: ../panel/mpanel-ui.php:1913 ../panel/mpanel-ui.php:1966
+#: ../panel/mpanel-ui.php:2019 ../panel/mpanel-ui.php:2072
+#: ../panel/mpanel-ui.php:2126 ../panel/mpanel-ui.php:2180
+#: ../panel/mpanel-ui.php:2234 ../panel/mpanel-ui.php:2286
+msgid "This adsense only display in mobile."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1812
+msgid "Top Right Banner Area(Vertical layout only)"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1865
+msgid "Bottom Banner Area"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1918
+msgid "Right of Home Slider"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:1971
+msgid "Above Article Banner Area"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2024
+msgid "Below Article Banner Area"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2077
+msgid "Top of the comment form"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2078
+msgid "This ad will be displayed at the top of the comment form."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2131
+msgid "Bottom of the comment form"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2132
+msgid "This ad will be displayed at the bottom of the comment form."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2185
+msgid "Shortcode [ads1] ADS"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2186
+msgid ""
+"You can add Shortcode [ads1] to any post, page or widget to display this ads."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2225
+msgid "[ads1] Shortcode Banner"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2228
+msgid "Add your adsense code here, and then use shortcode [ads1] to call it."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2231
+msgid "[ads1] Mobile Adsense Code"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2237
+msgid "Shortcode [ads2] ADS"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2238
+msgid ""
+"You can add Shortcode [ads2] to any post, page or widget to display this ads."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2277
+msgid "[ads2] Shortcode Banner"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2280
+msgid "Add your adsense code here, and then use shortcode [ads2] to call it."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2283
+msgid "[ads2] Mobile Adsense Code"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2297
+msgid "Sidebar Rolling"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2300
+msgid "Right Sidebar Rolling"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2303
+msgid "When enabled, the sidebar widget will fixed when the page scroll down."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2306
+msgid "-- Home Rolling Widget One"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2309
+msgid ""
+"Enter the widgets position(According to the display order).If you want to "
+"just roll a widget, please enter the same number in both of widget one and "
+"widget two, if you want to roll the last widget, please enter 0 in both of "
+"widget one and widget two. Following is the same."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2312
+msgid "-- Home Rolling Widget Two"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2316
+msgid "-- Post Rolling Widget One"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2321
+msgid "-- Post Rolling Widget Two"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2325
+msgid "-- Page Rolling Widget One"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2330
+msgid "-- Page Rolling Widget Two"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2334
+msgid ""
+"Note: In addition to the home page, posts and pages in accordance with a "
+"fixed set above, other pages are only fixed last widget."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2337
+msgid "Hide Sidebar"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2340
+msgid "Hide Sidebar in Mobile Client"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2343
+msgid ""
+"When the device is smaller than the width of 980px, the sidebar will not be "
+"displayed."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2346
+msgid "Remove Sidebar For Posts"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2349
+msgid "Remove sidebar for all posts."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2352
+msgid "Remove Sidebar For Pages"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2355
+msgid "Remove sidebar for all pages."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2360
+msgid "Add Sidebar"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2362
+msgid "Sidebar Name"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2364
+msgid "Add"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2365
+msgid ""
+"Please use letters and numbers named, otherwise, it may cause the sidebar "
+"does not work."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2380
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2389
+msgid "Home Sidebar"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2394
+msgid "Single Page Sidebar"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2399
+msgid "Single Article Sidebar"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2404
+msgid "Archives Sidebar"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2410
+msgid "<em><small>Category : </small></em>"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2424
+msgid "Archive Style Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2426
+msgid "All Categries of your website:"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2430
+msgid ""
+"The default archive style is <strong>[Simple Title List]</strong>, You can "
+"enter the Category IDs to custom the archive style of them. Multiple IDs "
+"separated by commas.e.g. 3,5,7"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2456
+msgid "Default Archive Style"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2467
+msgid "-- Default Posts Per Page"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2470
+msgid "Posts Per Page of [Simple Title List] and other archives pages"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2473
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2478
+msgid "Little thumb + Title on Mobile"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2481
+msgid "Check this if you want display Little thumb + title on mobile."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2484 ../panel/mpanel-ui.php:2501
+#: ../panel/mpanel-ui.php:2512 ../panel/mpanel-ui.php:2523
+#: ../panel/mpanel-ui.php:2534 ../panel/mpanel-ui.php:2545
+#: ../panel/mpanel-ui.php:2565
+msgid "-- Posts Per Page"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2487
+msgid "Posts Per Page of [Little thumb + Title on Mobile]"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2495
+msgid "-- Thumb Float Left"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2498
+msgid ""
+"The thumbnail is right-floating default , you can choose left-floating if "
+"you want."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2504
+msgid "Posts Per Page of [Small Thumb + Excerpt]"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2515
+msgid "Posts Per Page of [Big Thumb + Excerpt]"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2526
+msgid "Posts Per Page of [Original Image + Excerpt]"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2537 ../panel/mpanel-ui.php:2568
+msgid "Posts Per Page of [Row Thumb]"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2540
+msgid "Categories List + Row Thumb"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2548
+msgid "Posts Per Page of [Categories List + Row Thumb]"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2551
+msgid "-- Posts Order By"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2555
+msgid "Random "
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2556
+msgid "Recent "
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2573
+msgid "Links Open Method"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2576
+msgid "Open link in new tab"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2579
+msgid "If you choose this option, all posts will open the link in a new tab"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2582
+msgid "Archive Meta Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2585
+msgid "Archive Meta"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2588
+msgid ""
+"Effective only for [Big Thumb + Excerpt] and [Small Thumb + Excerpt] "
+"Archives."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2596
+msgid "Category Meta"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2623
+msgid "Category Page Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2626
+msgid "Category Description"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2630 ../panel/mpanel-ui.php:2639
+#: ../panel/mpanel-ui.php:2652
+msgid "RSS Icon"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2636
+msgid "Tag Page Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2645
+msgid "Author Page Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2648
+msgid "Author Bio"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2656
+msgid "Redirect Author To User Center"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2659
+msgid ""
+"Redirect user to user center if he/she try to access his/her archive page."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2664
+msgid "Choose Post Types"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2667
+msgid "Choose Post Types for Homepage"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2668
+msgid ""
+"Choose post types for homepage main loop, use the Ctrl key to multi-select "
+"or deselect."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2674
+msgid "Choose Post Types for author archive"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2675
+msgid ""
+"Choose post types for author archive loop, use the Ctrl key to multi-select "
+"or deselect."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2681
+msgid "Choose Post Types for search"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2682
+msgid ""
+"Choose post types for search results loop, use the Ctrl key to multi-select "
+"or deselect."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2688
+msgid "Choose Post Types for RSS feed"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2689
+msgid ""
+"Choose post types for rss feed loop, use the Ctrl key to multi-select or "
+"deselect."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2703
+msgid "Theme Layout & Color"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2706
+msgid "Theme Layout"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2709
+msgid "Horizontal - Main menu on the left"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2710
+msgid "Vertical - Main menu at the top"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2714
+msgid "Theme Color"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2717
+msgid "Black Green(default)"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2718
+msgid "Black Blue"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2719
+msgid "Brown red"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2720
+msgid "Blue"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2721
+msgid "Purple"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2727
+msgid "Custom CSS"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2730
+msgid "Enable Custom CSS"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2735
+msgid "Add your css:"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2742
+msgid "Advanced Settings"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2746
+msgid "Optional Features"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2754
+msgid "Show IDs In The Manage Column"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2757
+msgid ""
+"Show ids in  the manage column of posts, pages, comments, attachments, users "
+"and categories."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2771
+msgid ""
+"Important: To cache avatar, you must create a new folder named [avatar] in "
+"the site's root directory, add a default avatar named [default.jpg] and make "
+"sure it is writable (0755)."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2776
+msgid "Lightbox"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2779
+msgid "Lightbox allows users to view larger versions of images."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2782
+msgid "LazyLoad"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2785
+msgid ""
+"Using LazyLoad on long web pages containing many large images makes the page "
+"load faster."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2788
+msgid "jQuery CDN"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2791
+msgid "WordPress(default)"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2792
+msgid "Google"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2793
+msgid "Mrosoft"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2794
+msgid "Baidu"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2795
+msgid "SAE"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2796
+msgid "Qiniu"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2797
+msgid "Upyun"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2798
+msgid "jQuery Official"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2800
+msgid "Choose a jquery CDN service."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2803
+msgid "Excerpt Length Repair"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2806
+msgid "If the excerpt echo the full content, You can use this repair function."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2809
+msgid "Add Additional columns to User list"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2812
+msgid ""
+"Add additional columns to user list, E.g registration time, last login, ip "
+"and so on."
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2825
+msgid "Export"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2831
+msgid "Import"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2843
+msgid "All settings will be rest .. Are you sure ?"
+msgstr ""
+
+#: ../panel/mpanel-ui.php:2843
+msgid "Reset Settings"
+msgstr ""
+
+#: ../search.php:14
+#, php-format
+msgid "Search: %s"
+msgstr ""
+
+#: ../search.php:17
+#, php-format
+msgid "Posts 0f search results for: %s"
+msgstr ""
+
+#: ../search.php:21
+msgid "Nothing Found"
+msgstr ""
+
+#: ../search.php:24
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../sidebar-edd.php:9
+msgid ""
+"Please go to \"<a target=\"_blank\" href=\"/wp-admin/widgets.php\"> "
+"Appearance > Widgets </a>\" to set \"EDD Single Download Widget Area\"."
+msgstr ""
+
+#: ../sidebar-edd.php:14
+msgid ""
+"Please go to \"<a target=\"_blank\" href=\"/wp-admin/widgets.php\"> "
+"Appearance > Widgets </a>\" to set \"EDD Archive Widget Area\"."
+msgstr ""
+
+#: ../sidebar.php:18 ../sidebar.php:39 ../sidebar.php:61 ../sidebar.php:80
+#: ../sidebar.php:89
+msgid ""
+"Please go to \"<a target=\"_blank\" href=\"/wp-admin/widgets.php\"> "
+"Appearance > Widgets </a>\" to set \"Primary Widget Area\" , Or \"<a target="
+"\"_blank\" href=\"/wp-admin/admin.php?page=panel\"> Theme Setting </a>\" to "
+"Set [Sidebars] option ."
+msgstr ""
+
+#: ../sidebar.php:23 ../sidebar.php:47 ../sidebar.php:68
+msgid ""
+"Please go to \"<a target=\"_blank\" href=\"/wp-admin/widgets.php\"> "
+"Appearance > Widgets </a>\" to set \"DWQA Widget Area\"."
+msgstr ""
+
+#: ../single-download.php:55 ../single.php:47
+msgid "Tagged with: "
+msgstr ""
+
+#: ../single-download.php:62 ../single.php:52
+msgid "Last edited: "
+msgstr ""
+
+#: ../single-download.php:64 ../single.php:54
+msgid "Author: "
+msgstr ""
+
+#: ../single-download.php:65 ../single.php:55
+msgid "Editor: "
+msgstr ""
+
+#: ../single-download.php:75 ../single.php:65
+msgid "Previous:"
+msgstr ""
+
+#: ../single-download.php:76 ../single.php:66
+msgid "Next:"
+msgstr ""
+
+#: ../tag.php:12 ../taxonomy-download_tag.php:13
+msgid "Tag: "
+msgstr ""
+
+#: ../tag.php:15 ../taxonomy-download_tag.php:15
+msgid "Subscribe to this tag"
+msgstr ""

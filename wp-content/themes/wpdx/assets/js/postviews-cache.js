@@ -1,0 +1,1 @@
+jQuery.ajax({type:"GET",url:cmpViewsCacheL10n.admin_ajax_url,data:"postviews_id="+cmpViewsCacheL10n.post_id+"&action=postviews",cache:!1});
