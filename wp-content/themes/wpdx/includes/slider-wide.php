@@ -101,7 +101,7 @@ else $pager = 'false';
 <?php endif; wp_reset_query();?>
 <?php else: ?>
     <div class="row-fluid">
-        <div class="span12">
+        <div style="width: 856px;float: left;">
             <div id="home-slider" class="widget-box">
                 <div class="widget-content">
                     <ul class="bxslider">
