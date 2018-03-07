@@ -101,7 +101,11 @@ else $pager = 'false';
 <?php endif; wp_reset_query();?>
 <?php else: ?>
     <div class="row-fluid">
+<<<<<<< HEAD
         <div class="span12 ">
+=======
+        <div class="span12">
+>>>>>>> parent of cea5dbe... 2018.3.6
             <div id="home-slider" class="widget-box">
                 <div class="widget-content">
                     <ul class="bxslider">
