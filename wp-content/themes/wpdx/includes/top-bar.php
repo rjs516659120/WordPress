@@ -1,5 +1,5 @@
 <div id="top-bar" class="navbar navbar-inverse">
-  <div id="logo">
+  <!-- <div id="logo">
     <hgroup>
       <?php if (is_home()) { ?>
       <h1 class="logoimg"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ) ?></a></h1>
@@ -7,7 +7,7 @@
       <div class="logoimg"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ) ?></a></div>
       <?php } ?>
     </hgroup>
-  </div>
+  </div> -->
   <ul class="nav user-nav">
     <?php
     $protocol = is_ssl() ? 'https://' : 'http://';
