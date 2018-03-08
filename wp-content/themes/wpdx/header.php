@@ -13,7 +13,7 @@
 <body id="top" <?php body_class(); ?>>
 <div class="body-wrap">
     <div id="top-part">
-        <div ><img src="http://172.16.110.19:5555/wp-content/uploads/2018/03/1298X350.jpg"></div>
+        <div ><img src="http://172.16.110.19:5555/wp-content/uploads/2018/03/1298X350-1.jpg"></div>
        <!--  <?php get_template_part( "includes/top-bar" ) ?> -->
         <header id="header" role="banner">
             <nav id="main-nav"<?php if( cmp_get_option('theme_layout') =='vertical' && cmp_get_option('nav_fixed')) echo ' class="nav-fixed"'; ?> role="navigation">
