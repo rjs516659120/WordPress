@@ -49,5 +49,5 @@
 <?php get_template_part('includes/ad-bottom' );?>
 <?php get_template_part('includes/home-links' );?>
 </div>
-</div>
 <?php get_footer(); ?>
+</div>
