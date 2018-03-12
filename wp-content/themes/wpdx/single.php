@@ -90,5 +90,5 @@ endif; ?>
 </div>
 <?php get_template_part('includes/ad-bottom' );?>
 </div>
-</div>
 <?php get_footer(); ?>
+</div>
