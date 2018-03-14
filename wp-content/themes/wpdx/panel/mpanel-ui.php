@@ -424,7 +424,8 @@ function panel_options() {
                 "options" => array(
                   '1' => __('Slide Wide No ADs','wpdx'),
                   '2' => __('Slide + ADs','wpdx'),
-                  '3' => __('Slide No ADs (Blog Layout only)','wpdx')
+                  '3' => __('Slide No ADs (Blog Layout only)','wpdx'),
+                  '4' => __('Slide + recent','wpdx')
                   )));
             cmp_options(
               array(  "name" => __( 'Number of images per screen' , 'wpdx' ),
@@ -1832,12 +1833,12 @@ function panel_options() {
                   cmp_options(
                     array(  "name" => __( 'Sina Weibo' , 'wpdx' ),
                       "id" => "sina_weibo",
-                      "help" => __( 'e.g. http://weibo.com/hcm602' , 'wpdx' ),
+                      "help" => __( 'e.g. http://weibo.com/' , 'wpdx' ),
                       "type" => "text"));
                   cmp_options(
                     array(  "name" => __( 'QQ Weibo' , 'wpdx' ),
                       "id" => "qq_weibo",
-                      "help" => __( 'e.g. http://t.qq.com/hcm602' , 'wpdx' ),
+                      "help" => __( 'e.g. http://t.qq.com/' , 'wpdx' ),
                       "type" => "text"));
                   cmp_options(
                     array(  "name" => __( 'QQ' , 'wpdx' ),
@@ -1847,27 +1848,27 @@ function panel_options() {
                   cmp_options(
                     array(  "name" => __( 'Google+' , 'wpdx' ),
                       "id" => "google_plus",
-                      "help" => __( 'e.g. https://plus.google.com/105276589845964937994' , 'wpdx' ),
+                      "help" => __( 'e.g. https://plus.google.com/' , 'wpdx' ),
                       "type" => "text"));
                   cmp_options(
                     array(  "name" => __( 'Twitter' , 'wpdx' ),
                       "id" => "twitter",
-                      "help" => __( 'e.g. https://twitter.com/hcm602' , 'wpdx' ),
+                      "help" => __( 'e.g. https://twitter.com/' , 'wpdx' ),
                       "type" => "text"));
                   cmp_options(
                     array(  "name" => __( '<a class="tooltip" href="http://www.cmhello.com/list-qq-com.html" target="_blank" title="Setting method of QQ Email List">QQ Email List</a>' , 'wpdx' ),
                       "id" => "qq_email_list",
-                      "help" => __( 'e.g. 04d10e789e984f55c7eddb77e9ce652b631cbc84842b16fa' , 'wpdx' ),
+                      "help" => __( 'e.g. XXXX' , 'wpdx' ),
                       "type" => "text"));
                   cmp_options(
                     array(  "name" => __( '<a class="tooltip" href="http://www.cmhello.com/qq-email-me.html" target="_blank" title="Setting method of QQ Email Email-me">QQ Email Email-me</a>' , 'wpdx' ),
                       "id" => "send_email",
-                      "help" => __( 'e.g. http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=0Lm9s72Qprmg-qGh-rO-vQ' , 'wpdx' ),
+                      "help" => __( 'e.g. XXXX' , 'wpdx' ),
                       "type" => "text"));
                   cmp_options(
                     array(  "name" => __( 'Custom Feed URL' , 'wpdx' ),
                       "id" => "rss_url",
-                      "help" => __( 'e.g. http://feed.feedsky.com/cmhello' , 'wpdx' ),
+                      "help" => __( 'e.g. http://feed.feedsky.com/' , 'wpdx' ),
                       "type" => "text"));
                       ?>
                     </div>
