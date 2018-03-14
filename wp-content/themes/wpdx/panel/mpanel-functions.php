@@ -229,6 +229,10 @@ function cmp_add_admin() {
 }
 /*-----------------------------------------------------------------------------------*/
 # Add Options
+# mpanel-ui.php 
+# type 表单属性  'textarea' 'checkbox' 'upload' 等等
+# name 表单名字  '首页公告' '用户中心公告' 等等
+# id   表单编号  'announcement'  'user_tips'  'title_suffix'  'favicon' 等等
 /*-----------------------------------------------------------------------------------*/
 function cmp_options($value){
     global $options_fonts;
